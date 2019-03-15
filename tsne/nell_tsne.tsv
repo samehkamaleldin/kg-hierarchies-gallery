@@ -1,0 +1,1431 @@
+relation	concept	tsne_x	tsne_y
+generalizations	generalizations_concept:disease	9.539	3.574
+on	on_water	4.573	4.079
+has	has_bath	8.665	3.520
+hold	hold_water	4.923	4.305
+concept:visualartistartform	concept:visualartistartform_concept:visualartform:painting	9.363	4.607
+took as	took as_result	4.240	8.021
+generalizations	generalizations_concept:building	6.031	4.100
+concept:proxyfor	concept:proxyfor_concept:creditunion:kansas	8.441	5.804
+concept:athleteplaysforteam	concept:athleteplaysforteam_concept:sportsteam:diamondbacks	8.720	5.109
+concept:createdbyagent	concept:createdbyagent_concept:writer:charlaine_harris	7.665	4.180
+generalizations	generalizations_concept:beach	4.045	4.407
+concept:teamalsoknownas	concept:teamalsoknownas_concept:sportsteam:new_york_giants	2.823	1.163
+take	take_place	2.977	3.972
+concept:atdate	concept:atdate_concept:year:n1994	7.549	2.690
+may have	may have_side effects	8.088	6.422
+concept:roomcancontainfurniture	concept:roomcancontainfurniture_concept:furniture:beds	3.816	4.719
+generalizations	generalizations_concept:clothing	1.908	1.312
+concept:citylocatedinstate	concept:citylocatedinstate_concept:stateorprovince:oklahoma	8.031	5.315
+concept:teamplaysagainstteam	concept:teamplaysagainstteam_concept:sportsteam:oakland_raiders	2.770	0.953
+generalizations	generalizations_concept:newspaper	8.548	5.119
+concept:teamplaysagainstteam	concept:teamplaysagainstteam_concept:sportsteam:tennessee_titans	2.732	0.990
+concept:professionistypeofprofession	concept:professionistypeofprofession_concept:profession:leaders	7.100	7.846
+concept:professionistypeofprofession	concept:professionistypeofprofession_concept:profession:specialists	7.229	7.732
+came into	came into_office	2.407	2.103
+concept:createdbyagent	concept:createdbyagent_concept:personus:piers_anthony	6.560	5.499
+concept:animaltypehasanimal	concept:animaltypehasanimal_concept:mammal:pets	5.285	2.146
+concept:atdate	concept:atdate_concept:date:n1971	7.591	2.880
+generalizations	generalizations_concept:sportsequipment	4.012	5.441
+concept:citylocatedinstate	concept:citylocatedinstate_concept:stateorprovince:massachusetts	8.598	4.663
+has	has_water	4.474	3.873
+generalizations	generalizations_concept:musician	4.166	4.262
+concept:controlledbyagent	concept:controlledbyagent_concept:politicianus:apple_ceo_steve_jobs	6.891	4.240
+concept:professionistypeofprofession	concept:professionistypeofprofession_concept:profession:workers	7.730	7.643
+consists of	consists of_series	3.191	6.081
+takes	takes_time	2.565	4.395
+will be in	will be in_contact	2.774	4.787
+will appear in	will appear in_window	4.764	2.893
+generalizations	generalizations_concept:sportsteam	6.559	8.136
+generalizations	generalizations_concept:ethnicgroup	4.507	3.350
+generalizations	generalizations_concept:celebrity	0.473	5.124
+generalizations	generalizations_concept:biotechcompany	4.572	5.716
+concept:atdate	concept:atdate_concept:dateliteral:n2007	7.363	2.279
+concept:televisionstationaffiliatedwith	concept:televisionstationaffiliatedwith_concept:televisionnetwork:abc	6.927	8.804
+concept:animalistypeofanimal	concept:animalistypeofanimal_concept:mammal:pets	5.335	2.136
+concept:citylocatedinstate	concept:citylocatedinstate_concept:stateorprovince:kansas	6.781	6.020
+win	win_series	6.014	3.024
+generalizations	generalizations_concept:politician	5.562	2.860
+concept:agentbelongstoorganization	concept:agentbelongstoorganization_concept:sportsleague:nhl	7.934	5.875
+concept:itemfoundinroom	concept:itemfoundinroom_concept:room:rooms	4.829	8.122
+generalizations	generalizations_concept:musicsong	4.674	4.688
+concept:coachesinleague	concept:coachesinleague_concept:sportsleague:nfl	8.258	5.006
+concept:locationcontainslocation	concept:locationcontainslocation_concept:room:new	3.884	6.238
+concept:subpartof	concept:subpartof_concept:website:blood	6.676	6.426
+concept:animalistypeofanimal	concept:animalistypeofanimal_concept:mammal:small_animals	5.037	2.274
+concept:worksfor	concept:worksfor_concept:politicsblog:washington_post	8.347	6.377
+concept:politicianusendorsedbypoliticianus	concept:politicianusendorsedbypoliticianus_concept:politicianus:barack_obama	8.624	3.052
+generalizations	generalizations_concept:academicfield	4.206	6.338
+provides	provides_services	5.781	6.638
+had	had_contact	2.990	4.795
+generalizations	generalizations_concept:city	7.734	1.762
+generalizations	generalizations_concept:personasia	5.609	3.320
+generalizations	generalizations_concept:wallitem	5.180	6.684
+concept:atdate	concept:atdate_concept:date:n1999	7.735	2.513
+generalizations	generalizations_concept:landscapefeatures	5.018	6.730
+generalizations	generalizations_concept:comedian	5.498	4.663
+has	has_window	6.360	5.516
+concept:agentcreated	concept:agentcreated_concept:musicalbum:contact	7.580	4.929
+concept:citylocatedinstate	concept:citylocatedinstate_concept:stateorprovince:minnesota	7.356	4.896
+concept:agentcreated	concept:agentcreated_concept:museum:e_mail	7.444	4.185
+concept:athleteplaysforteam	concept:athleteplaysforteam_concept:sportsteam:vancouver_canucks	8.789	5.099
+includes	includes_side effects	6.746	5.542
+can have	can have_side effects	7.475	5.576
+concept:atdate	concept:atdate_concept:dayofweek:saturday	8.768	4.725
+may change as	may change as_result	5.585	7.444
+concept:chemicaltypehaschemical	concept:chemicaltypehaschemical_concept:chemical:carbon	4.047	7.109
+generalizations	generalizations_concept:boardgame	5.366	7.066
+generalizations	generalizations_concept:agriculturalproduct	4.040	3.103
+concept:atdate	concept:atdate_concept:date:n1979	7.624	2.881
+generalizations	generalizations_concept:fruit	8.997	2.623
+concept:inverseoflanguegeschoolincity	concept:inverseoflanguegeschoolincity_concept:language:spanish_language	6.925	4.856
+concept:teamplaysagainstteam	concept:teamplaysagainstteam_concept:sportsteam:ne_patriots	2.768	0.914
+concept:atdate	concept:atdate_concept:dateliteral:n2008	7.381	2.297
+concept:citylocatedinstate	concept:citylocatedinstate_concept:stateorprovince:arkansas	6.481	5.960
+concept:competeswith	concept:competeswith_concept:website:journal	8.881	4.740
+concept:locationcontainslocation	concept:locationcontainslocation_concept:stadiumoreventvenue:new	7.359	1.467
+concept:teamplaysagainstteam	concept:teamplaysagainstteam_concept:sportsteam:prairie_view_a___m_panthers	2.894	0.933
+will have as	will have as_result	6.513	7.017
+concept:musicartistgenre	concept:musicartistgenre_concept:musicgenre:pop	6.943	5.619
+concept:athleteplayssport	concept:athleteplayssport_concept:sport:golf	7.527	4.835
+face as	face as_result	6.684	7.407
+concept:animalpreyson	concept:animalpreyson_concept:animal:creatures	4.940	2.315
+concept:teamplaysincity	concept:teamplaysincity_concept:city:boston	4.488	2.309
+concept:atdate	concept:atdate_concept:dateliteral:n1980	7.528	2.849
+concept:clothingtogowithclothing	concept:clothingtogowithclothing_concept:clothing:shorts	9.966	4.937
+concept:proxyfor	concept:proxyfor_concept:stateorprovince:new_york	7.519	5.260
+make	make_contact	2.930	4.672
+concept:locatedat	concept:locatedat_concept:buildingfeature:american	7.546	1.696
+concept:athleteplaysinleague	concept:athleteplaysinleague_concept:sportsleague:nfl	5.134	1.620
+generalizations	generalizations_concept:ceo	7.592	8.749
+concept:officeheldbypoliticianus	concept:officeheldbypoliticianus_concept:politicianus:barack	8.595	6.389
+like	like_water	5.071	4.728
+concept:citylocatedinstate	concept:citylocatedinstate_concept:stateorprovince:oregon	8.416	5.870
+generalizations	generalizations_concept:sport	5.655	3.475
+concept:atdate	concept:atdate_concept:year:n1985	7.594	2.797
+concept:instrumentplayedbymusician	concept:instrumentplayedbymusician_concept:musician:john	8.165	5.510
+concept:subpartoforganization	concept:subpartoforganization_concept:company:nbc	6.941	9.399
+concept:roomcancontainitem	concept:roomcancontainitem_concept:bathroomitem:shower	3.572	4.457
+generalizations	generalizations_concept:street	4.422	4.748
+related	related_Links	3.180	7.614
+concept:proxyfor	concept:proxyfor_concept:eventoutcome:new	8.935	5.746
+concept:dateof	concept:dateof_concept:sociopolitical:war	1.634	5.570
+generalizations	generalizations_concept:candy	5.467	5.131
+concept:inverseofanimalfeedoninsect	concept:inverseofanimalfeedoninsect_concept:insect:insects	5.108	1.099
+please send	please send_email	3.032	3.012
+generalizations	generalizations_concept:reptile	4.965	4.539
+encourages	encourages_people	2.063	3.075
+concept:bankbankincountry	concept:bankbankincountry_concept:country:india	7.545	5.124
+for	for_people	2.287	2.979
+has	has_bed	9.003	3.526
+concept:lakeinstate	concept:lakeinstate_concept:stateorprovince:michigan	8.077	5.687
+concept:athleteplaysforteam	concept:athleteplaysforteam_concept:sportsteam:pittsburgh_steelers_sunday	7.968	5.052
+generalizations	generalizations_concept:sportsevent	4.813	6.361
+appears in	appears in_window	4.810	2.884
+occur as	occur as_result	6.151	6.373
+concept:athleteplaysforteam	concept:athleteplaysforteam_concept:sportsteam:cleveland_browns	8.732	5.001
+concept:politicianusendorsespoliticianus	concept:politicianusendorsespoliticianus_concept:politicianus:palin	8.622	3.055
+concept:personhasjobposition	concept:personhasjobposition_concept:jobposition:king	6.548	4.874
+concept:dateof	concept:dateof_concept:hotel:residence	2.014	6.290
+has in	has in_state	5.199	3.075
+facing as	facing as_result	6.779	6.785
+concept:teamplaysagainstteam	concept:teamplaysagainstteam_concept:sportsteam:philadelphia_eagles	2.707	0.837
+concept:subpartof	concept:subpartof_concept:weatherphenomenon:air	7.888	3.956
+concept:inverseofemotionassocietedwithdisease	concept:inverseofemotionassocietedwithdisease_concept:emotion:anxiety	3.624	5.461
+concept:televisionstationaffiliatedwith	concept:televisionstationaffiliatedwith_concept:televisionnetwork:cbs	8.610	4.499
+have died as	have died as_result	6.932	7.191
+teach	teach_people	2.329	3.354
+will change as	will change as_result	5.550	7.615
+concept:stadiumhometoleague	concept:stadiumhometoleague_concept:sportsleague:nascar	7.719	4.899
+s	s_Office	2.210	4.216
+tells	tells_people	2.134	3.259
+concept:citylocatedincountry	concept:citylocatedincountry_concept:country:sweden	8.781	5.061
+have	have_contact	3.057	4.677
+makes	makes_contact	3.016	4.869
+concept:citylocatedinstate	concept:citylocatedinstate_concept:stateorprovince:missouri	8.058	5.219
+concept:proxyfor	concept:proxyfor_concept:room:new	8.854	6.508
+generalizations	generalizations_concept:port	4.791	3.437
+concept:atdate	concept:atdate_concept:year:n1982	7.661	2.875
+generalizations	generalizations_concept:sportsleague	8.045	5.927
+concept:inverseofvegetableproductioninstateorprovince	concept:inverseofvegetableproductioninstateorprovince_concept:vegetable:corn	3.837	5.259
+concept:mutualproxyfor	concept:mutualproxyfor_concept:room:new	7.754	5.223
+concept:agentbelongstoorganization	concept:agentbelongstoorganization_concept:sportsleague:nba	3.851	8.139
+get	get_water	4.920	4.096
+concept:inverseofplantincludeplant	concept:inverseofplantincludeplant_concept:plant:flowers	8.284	4.372
+concept:universityoperatesinlanguage	concept:universityoperatesinlanguage_concept:language:spanish	4.118	3.542
+concept:athleteplaysinleague	concept:athleteplaysinleague_concept:sportsleague:nhl	8.644	2.349
+improved as	improved as_result	5.570	7.584
+on	on_air	2.483	4.105
+concept:stadiumhometoleague	concept:stadiumhometoleague_concept:sportsleague:nba	3.694	3.730
+concept:worksfor	concept:worksfor_concept:politicsblog:new_york_times	6.213	2.404
+generalizations	generalizations_concept:militaryeventtype	2.996	6.731
+generalizations	generalizations_concept:room	3.733	4.800
+concept:iteminvolvedwithagent	concept:iteminvolvedwithagent_concept:company:nintendo	7.732	4.086
+concept:countryalsoknownas	concept:countryalsoknownas_concept:country:congo	7.055	5.213
+need	need_tools	5.051	5.969
+please	please_email	3.031	3.010
+concept:mutualproxyfor	concept:mutualproxyfor_concept:tableitem:new	8.790	4.230
+concept:atdate	concept:atdate_concept:dateliteral:n1945	7.410	2.995
+concept:chemicaltypehaschemical	concept:chemicaltypehaschemical_concept:chemical:gases	4.395	7.259
+generalizations	generalizations_concept:tableitem	3.884	4.135
+concept:animalpreyson	concept:animalpreyson_concept:mammal:predators	2.599	7.638
+concept:agentactsinlocation	concept:agentactsinlocation_concept:website:new	8.668	4.240
+concept:inverseofanimaleatfood	concept:inverseofanimaleatfood_concept:amphibian:larvae	7.408	4.721
+had	had_people	2.119	3.491
+concept:dateof	concept:dateof_concept:city:army	1.635	5.648
+concept:teamplaysagainstteam	concept:teamplaysagainstteam_concept:sportsteam:los_angeles_lakers	9.140	3.057
+concept:atlocation	concept:atlocation_concept:geopoliticallocation:north_carolina	7.134	4.672
+generalizations	generalizations_concept:professionalorganization	8.681	1.675
+ran for	ran for_president	2.426	1.902
+concept:bodypartwithinbodypart	concept:bodypartwithinbodypart_concept:bodypart:brain001	6.662	5.287
+concept:createdbyagent	concept:createdbyagent_concept:chef:nora_roberts	7.534	5.361
+concept:agentbelongstoorganization	concept:agentbelongstoorganization_concept:geopoliticalorganization:world	9.375	3.897
+concept:sportsteampositionforsport	concept:sportsteampositionforsport_concept:sport:baseball	8.764	5.566
+concept:sportusesequipment	concept:sportusesequipment_concept:sportsequipment:football	8.149	7.058
+generalizations	generalizations_concept:mlconference	5.416	4.475
+attracts	attracts_people	2.248	3.227
+concept:agentcollaborateswithagent	concept:agentcollaborateswithagent_concept:politician:clinton	7.507	3.704
+concept:drugworkedonbyagent	concept:drugworkedonbyagent_concept:biotechcompany:novartis	9.283	5.322
+at	at_home	7.135	3.924
+concept:athleteplaysforteam	concept:athleteplaysforteam_concept:sportsteam:padres	8.697	5.330
+generalizations	generalizations_concept:bodypart	6.024	3.760
+take	take_water	5.038	4.191
+generalizations	generalizations_concept:invertebrate	2.180	5.097
+concept:dateof	concept:dateof_concept:buildingfeature:doors	1.637	5.803
+concept:inverseofanimalfeedoninsect	concept:inverseofanimalfeedoninsect_concept:animal:pests	5.271	1.141
+concept:statelocatedingeopoliticallocation	concept:statelocatedingeopoliticallocation_concept:country:usa	9.879	3.876
+concept:professiontypehasprofession	concept:professiontypehasprofession_concept:profession:workers	7.723	7.642
+concept:hotelincity	concept:hotelincity_concept:city:new_york_city	7.016	3.913
+concept:professionistypeofprofession	concept:professionistypeofprofession_concept:profession:services	7.227	7.486
+concept:clothingtogowithclothing	concept:clothingtogowithclothing_concept:clothing:jacket	9.880	4.764
+concept:personbelongstoorganization	concept:personbelongstoorganization_concept:sportsteam:yankees	8.113	5.812
+generalizations	generalizations_concept:architect	5.076	3.380
+concept:riveremptiesintoriver	concept:riveremptiesintoriver_concept:river:atlantic	8.460	4.765
+asked	asked_questions	2.073	4.524
+win	win_World Series	7.981	2.823
+generalizations	generalizations_concept:videogame	5.790	1.501
+concept:roomcancontainitem	concept:roomcancontainitem_concept:candy:size	3.808	4.447
+concept:chemicaltypehaschemical	concept:chemicaltypehaschemical_concept:chemical:gas	4.316	7.341
+concept:statelocatedincountry	concept:statelocatedincountry_concept:country:usa	9.878	3.877
+has	has_side effects	8.052	6.442
+generalizations	generalizations_concept:species	4.653	1.530
+concept:athleteplayssportsteamposition	concept:athleteplayssportsteamposition_concept:sportsteamposition:player	8.111	4.661
+generalizations	generalizations_concept:male	5.644	3.137
+concept:companyeconomicsector	concept:companyeconomicsector_concept:economicsector:insurance_coverage	8.658	4.765
+generalizations	generalizations_concept:politicsblog	3.815	2.757
+concept:atlocation	concept:atlocation_concept:stateorprovince:pennsylvania	6.570	3.950
+concept:dateof	concept:dateof_concept:politicsissue:elections	1.715	5.812
+generalizations	generalizations_concept:crustacean	5.800	4.449
+concept:personmovedtostateorprovince	concept:personmovedtostateorprovince_concept:stateorprovince:california	6.683	4.327
+make	make_playoffs	6.032	3.214
+teaches	teaches_people	2.167	3.251
+goes out	goes out_window	4.703	3.139
+concept:citylocatedinstate	concept:citylocatedinstate_concept:stateorprovince:tennessee	8.831	4.879
+concept:bakedgoodservedwithbeverage	concept:bakedgoodservedwithbeverage_concept:beverage:coffee	4.694	7.595
+concept:statelocatedincountry	concept:statelocatedincountry_concept:country:india	3.684	3.075
+experiencing as	experiencing as_result	6.742	6.806
+concept:proxyfor	concept:proxyfor_concept:stateorprovince:maryland	5.180	7.386
+has	has_people	1.884	3.288
+generalizations	generalizations_concept:parlourgame	5.176	7.035
+concept:cityhascompanyoffice	concept:cityhascompanyoffice_concept:company:national	7.679	1.787
+running for	running for_President	2.402	1.862
+caused as	caused as_result	6.146	6.100
+concept:athleteplaysforteam	concept:athleteplaysforteam_concept:sportsteam:pirates	8.508	4.936
+include	include_water	5.223	4.071
+concept:animalpreyson	concept:animalpreyson_concept:mammal:mammals	4.881	2.381
+concept:journalistwritesforpublication	concept:journalistwritesforpublication_concept:blog:the_new_york_times	8.578	5.200
+concept:inverseofbankbankincountry	concept:inverseofbankbankincountry_concept:bank:hsbc	5.931	0.928
+concept:animalsuchasinsect	concept:animalsuchasinsect_concept:animal:pests	5.292	1.147
+generalizations	generalizations_concept:legume	8.997	2.623
+generalizations	generalizations_concept:meat	8.284	1.394
+will suffer as	will suffer as_result	6.177	7.118
+concept:chemicalistypeofchemical	concept:chemicalistypeofchemical_concept:chemical:compounds	3.903	7.603
+concept:inverseofemotionassocietedwithdisease	concept:inverseofemotionassocietedwithdisease_concept:emotion:depression	3.618	5.459
+generalizations	generalizations_concept:grandprix	6.101	3.432
+concept:weaponmadeincountry	concept:weaponmadeincountry_concept:country:iran	8.326	5.614
+generalizations	generalizations_concept:personmexico	7.125	6.064
+concept:atlocation	concept:atlocation_concept:stateorprovince:colorado	4.760	5.118
+won	won_World Series	7.980	2.821
+concept:musicianplaysinstrument	concept:musicianplaysinstrument_concept:musicinstrument:cello	8.866	5.365
+concept:dateof	concept:dateof_concept:country:france	1.643	5.591
+concept:citylocatedinstate	concept:citylocatedinstate_concept:stateorprovince:mississippi	6.940	5.181
+concept:hotelincity	concept:hotelincity_concept:city:toronto	8.463	4.629
+absorb	absorb_water	4.999	4.166
+concept:controlledbyagent	concept:controlledbyagent_concept:personmexico:ncaa	7.790	5.405
+generalizations	generalizations_concept:musicfestival	4.333	4.290
+at	at_time	2.569	4.396
+provide	provide_services	5.662	6.617
+concept:athleteplaysforteam	concept:athleteplaysforteam_concept:sportsteam:royals	8.560	4.801
+had	had_pain	3.571	6.560
+concept:dateof	concept:dateof_concept:island:operations	1.682	5.773
+generalizations	generalizations_concept:personsouthamerica	4.097	8.776
+concept:headquarteredin	concept:headquarteredin_concept:city:new_york_city	8.980	4.710
+concept:atlocation	concept:atlocation_concept:stateorprovince:missouri	6.725	4.711
+generalizations	generalizations_concept:jobposition	6.793	2.626
+concept:professionistypeofprofession	concept:professionistypeofprofession_concept:profession:experts	7.197	7.771
+lay	lay_eggs	5.743	5.561
+gives	gives_tools	2.701	5.790
+suffering as	suffering as_result	6.399	7.337
+concept:citylocatedincountry	concept:citylocatedincountry_concept:country:england	8.700	4.929
+concept:personbornincity	concept:personbornincity_concept:city:new_york_city	7.925	5.706
+generalizations	generalizations_concept:bakedgood	8.489	4.755
+concept:athleteplaysforteam	concept:athleteplaysforteam_concept:sportsteam:edmonton_oilers	8.897	5.219
+generalizations	generalizations_concept:hotel	5.346	6.588
+generalizations	generalizations_concept:musicinstrument	8.125	4.935
+generalizations	generalizations_concept:mammal	8.538	5.129
+has throughout	has throughout_state	5.243	3.096
+concept:atdate	concept:atdate_concept:year:n1987	7.507	2.789
+concept:visualartistartform	concept:visualartistartform_concept:visualartform:collection	8.594	4.605
+generalizations	generalizations_concept:race	4.829	6.357
+concept:equipmentusedbysport	concept:equipmentusedbysport_concept:sport:soccer	4.412	5.920
+concept:teamingame	concept:teamingame_concept:sportsgame:finals	9.122	3.120
+generalizations	generalizations_concept:nongovorganization	8.379	2.664
+concept:politicianholdsoffice	concept:politicianholdsoffice_concept:politicaloffice:office	5.785	1.906
+concept:citylocatedinstate	concept:citylocatedinstate_concept:stateorprovince:new_york	7.623	5.065
+concept:politicianusendorsedbypoliticianus	concept:politicianusendorsedbypoliticianus_concept:politicianus:bush	5.954	1.857
+concept:proxyfor	concept:proxyfor_concept:creditunion:massachusetts	6.773	5.080
+won	won_world series	8.016	2.912
+generalizations	generalizations_concept:mlalgorithm	2.954	5.349
+in	in_United States	5.360	3.151
+generalizations	generalizations_concept:economicsector	5.366	3.643
+concept:itemfoundinroom	concept:itemfoundinroom_concept:room:bedroom	5.511	7.140
+generalizations	generalizations_concept:blog	3.815	2.757
+concept:createdbyagent	concept:createdbyagent_concept:company:adobe_systems_inc_	7.974	4.698
+in	in_place	2.926	3.988
+getting as	getting as_result	6.402	7.012
+in	in_air	2.957	3.512
+concept:inverseofacademicfieldsuchasacademicfield	concept:inverseofacademicfieldsuchasacademicfield_concept:politicsissue:sciences	4.352	6.371
+use	use_water	4.949	3.994
+came as	came as_result	4.336	7.941
+concept:politicianusendorsespoliticianus	concept:politicianusendorsespoliticianus_concept:politicianus:gore	5.801	1.801
+concept:competeswith	concept:competeswith_concept:website:google	7.663	7.031
+concept:agentparticipatedinevent	concept:agentparticipatedinevent_concept:sportsgame:series	8.868	3.842
+concept:athleteplaysforteam	concept:athleteplaysforteam_concept:sportsteam:new_york_giants	7.171	4.989
+concept:bodypartcontainsbodypart	concept:bodypartcontainsbodypart_concept:bodypart:system001	6.378	4.634
+concept:citylocatedinstate	concept:citylocatedinstate_concept:stateorprovince:maryland	6.806	4.041
+concept:proxyfor	concept:proxyfor_concept:stateorprovince:pennsylvania	6.560	3.945
+in	in_body	6.024	5.166
+concept:professiontypehasprofession	concept:professiontypehasprofession_concept:profession:nurses	7.320	8.174
+concept:sportusesequipment	concept:sportusesequipment_concept:sportsequipment:equipment	5.611	8.372
+concept:professiontypehasprofession	concept:professiontypehasprofession_concept:profession:staff	7.430	7.748
+concept:athleteinjuredhisbodypart	concept:athleteinjuredhisbodypart_concept:bone:shoulder	8.017	4.522
+use	use_form	3.085	2.428
+concept:sportusesequipment	concept:sportusesequipment_concept:sportsequipment:balls	5.614	8.369
+concept:controlledbyagent	concept:controlledbyagent_concept:company:fox	7.657	4.776
+concept:teamplaysagainstteam	concept:teamplaysagainstteam_concept:sportsteam:bulls	9.145	3.042
+concept:arthropodandotherarthropod	concept:arthropodandotherarthropod_concept:animal:pests	5.300	1.150
+generalizations	generalizations_concept:mlmetric	5.358	5.242
+concept:locationactedinbyagent	concept:locationactedinbyagent_concept:company:national	7.046	5.783
+concept:journalistwritesforpublication	concept:journalistwritesforpublication_concept:company:nbc	8.986	5.249
+have	have_tools	4.993	6.013
+concept:subpartoforganization	concept:subpartoforganization_concept:city:abc	8.686	6.651
+concept:athleteplaysforteam	concept:athleteplaysforteam_concept:sportsteam:astros	8.713	5.183
+generalizations	generalizations_concept:judge	7.894	3.226
+concept:politicianusendorsedbypoliticianus	concept:politicianusendorsedbypoliticianus_concept:politicianus:w__bush	5.911	1.851
+concept:athleteplaysforteam	concept:athleteplaysforteam_concept:sportsteam:seattle_mariners	8.816	5.632
+concept:animaltypehasanimal	concept:animaltypehasanimal_concept:mammal:cats	8.081	2.163
+concept:atdate	concept:atdate_concept:dateliteral:n2006	7.387	2.296
+concept:teamplaysagainstteam	concept:teamplaysagainstteam_concept:sportsteam:pittsburgh_steelers_sunday	2.796	0.817
+concept:citylocatedinstate	concept:citylocatedinstate_concept:stateorprovince:alaska	7.987	5.538
+start	start_search	6.594	2.980
+generalizations	generalizations_concept:physicalaction	8.659	5.120
+concept:proxyfor	concept:proxyfor_concept:weatherphenomenon:new	7.682	5.221
+concept:eventhasparticipantagent	concept:eventhasparticipantagent_concept:city:place	8.455	4.499
+concept:politicianholdsoffice	concept:politicianholdsoffice_concept:politicaloffice:senator	8.485	2.967
+concept:plantincludeplant	concept:plantincludeplant_concept:plant:trees	7.827	5.611
+lost	lost_series	6.003	3.069
+generalizations	generalizations_concept:election	4.255	0.881
+concept:professiontypehasprofession	concept:professiontypehasprofession_concept:profession:professionals	3.231	4.474
+generalizations	generalizations_concept:currency	6.210	4.324
+generalizations	generalizations_concept:aquarium	4.530	6.132
+concept:atdate	concept:atdate_concept:year:n1917	7.442	3.061
+concept:athleteplaysforteam	concept:athleteplaysforteam_concept:sportsteam:twins	8.923	5.021
+concept:itemfoundinroom	concept:itemfoundinroom_concept:room:bath	4.808	8.143
+would suffer as	would suffer as_result	6.208	7.081
+concept:politicianusendorsedbypoliticianus	concept:politicianusendorsedbypoliticianus_concept:politicianus:palin	8.624	3.054
+concept:buildinglocatedincity	concept:buildinglocatedincity_concept:city:vegas	8.525	5.632
+generalizations	generalizations_concept:artery	4.594	8.905
+save	save_water	5.043	3.902
+concept:visualartistartform	concept:visualartistartform_concept:visualartform:art	9.335	4.596
+generalizations	generalizations_concept:restaurant	5.243	3.493
+concept:cityhascompanyoffice	concept:cityhascompanyoffice_concept:company:delta	9.118	6.077
+concept:inverseofagriculturalproductcookedwithagricultureproduct	concept:inverseofagriculturalproductcookedwithagricultureproduct_concept:vegetable:pepper	4.020	3.135
+concept:atdate	concept:atdate_concept:year:n1981	7.626	2.841
+concept:drugworkedonbyagent	concept:drugworkedonbyagent_concept:biotechcompany:pfizer	7.265	6.237
+concept:professiontypehasprofession	concept:professiontypehasprofession_concept:profession:faculty	7.063	7.925
+get	get_information	1.768	4.493
+concept:athleteplaysforteam	concept:athleteplaysforteam_concept:sportsteam:dallas_cowboys	8.685	5.193
+concept:bakedgoodservedwithbeverage	concept:bakedgoodservedwithbeverage_concept:beverage:cream	4.790	7.538
+concept:journalistwritesforpublication	concept:journalistwritesforpublication_concept:politicsblog:new_york_times	6.209	2.401
+concept:stadiumhometosport	concept:stadiumhometosport_concept:sport:baseball	8.603	3.831
+concept:subpartof	concept:subpartof_concept:magazine:vegas	8.370	4.623
+in as	in as_result	6.596	6.887
+generalizations	generalizations_concept:automobilemodel	7.932	8.147
+concept:atdate	concept:atdate_concept:year:n1995	7.575	2.642
+concept:musicartistgenre	concept:musicartistgenre_concept:musicgenre:punk	6.485	5.765
+generalizations	generalizations_concept:fungus	5.917	4.596
+drink	drink_water	4.912	4.064
+concept:locationactedinbyagent	concept:locationactedinbyagent_concept:animal:condor	8.119	5.446
+generalizations	generalizations_concept:automobileengine	7.342	0.935
+generalizations	generalizations_concept:nut	5.497	0.570
+concept:teamplaysagainstteam	concept:teamplaysagainstteam_concept:sportsteam:tampa_bay_buccaneers	2.776	1.023
+concept:bodypartcontainsbodypart	concept:bodypartcontainsbodypart_concept:artery:arteries	6.224	4.612
+concept:attractionofcity	concept:attractionofcity_concept:city:vegas	8.539	5.569
+concept:athleteplaysinleague	concept:athleteplaysinleague_concept:sportsleague:nba	9.205	4.888
+produced as	produced as_result	7.952	6.989
+generalizations	generalizations_concept:chemical	4.163	7.835
+please	please_Click	3.204	3.057
+work with	work with_staff	7.206	6.378
+concept:atdate	concept:atdate_concept:year:n1998	7.561	2.566
+concept:dateof	concept:dateof_concept:book:inception	1.676	5.796
+has	has_double bed	9.071	3.727
+get as	get as_result	6.350	7.081
+concept:locationlocatedwithinlocation	concept:locationlocatedwithinlocation_concept:country:india	8.896	5.598
+concept:chemicalistypeofchemical	concept:chemicalistypeofchemical_concept:chemical:carbon	3.769	7.197
+concept:superpartof	concept:superpartof_concept:programminglanguage:body	8.974	5.636
+die as	die as_result	6.788	7.200
+generalizations	generalizations_concept:politicsgroup	3.322	3.491
+becoming as	becoming as_result	6.202	6.865
+concept:atdate	concept:atdate_concept:dateliteral:n2010	7.752	2.879
+concept:subpartof	concept:subpartof_concept:country:usa	4.006	4.887
+concept:citylocatedinstate	concept:citylocatedinstate_concept:stateorprovince:iowa	6.304	5.667
+generalizations	generalizations_concept:airport	6.167	4.135
+concept:agriculturalproductcutintogeometricshape	concept:agriculturalproductcutintogeometricshape_concept:geometricshape:cubes	4.376	2.693
+concept:roomcancontainfurniture	concept:roomcancontainfurniture_concept:furniture:bed	3.787	4.760
+concept:bodypartwithinbodypart	concept:bodypartwithinbodypart_concept:bodypart:system	8.225	5.595
+can take	can take_place	3.052	3.955
+concept:mutualproxyfor	concept:mutualproxyfor_concept:wallitem:board	7.184	5.232
+won	won_title	5.915	3.049
+concept:teamplaysagainstteam	concept:teamplaysagainstteam_concept:sportsteam:yankees	4.245	2.145
+concept:musicianplaysinstrument	concept:musicianplaysinstrument_concept:musicinstrument:piano	8.977	5.484
+concept:companyeconomicsector	concept:companyeconomicsector_concept:economicsector:media	8.855	4.735
+in	in_California	8.212	6.632
+generalizations	generalizations_concept:researchproject	6.777	3.403
+concept:politicianusendorsedbypoliticianus	concept:politicianusendorsedbypoliticianus_concept:politicianus:mccain	9.477	6.452
+concept:teamplaysagainstteam	concept:teamplaysagainstteam_concept:sportsteam:minnesota_vikings	2.765	0.901
+generalizations	generalizations_concept:consumerelectronicitem	5.507	5.743
+concept:animalpredators	concept:animalpredators_concept:mammal:pets	5.298	2.139
+concept:proxyfor	concept:proxyfor_concept:stateorprovince:ohio	8.124	4.408
+concept:teamplaysagainstteam	concept:teamplaysagainstteam_concept:sportsteam:new_york_mets	4.262	2.021
+concept:bacteriaisthecausativeagentofphysiologicalcondition	concept:bacteriaisthecausativeagentofphysiologicalcondition_concept:physiologicalcondition:infection	7.073	6.234
+comes as	comes as_result	5.794	7.003
+comes from	comes from_people	2.424	3.178
+concept:dateof	concept:dateof_concept:company:japan	1.673	5.773
+generalizations	generalizations_concept:school	2.241	7.050
+generalizations	generalizations_concept:scientist	5.004	7.173
+concept:controlledbyagent	concept:controlledbyagent_concept:sportsleague:nfl	6.393	2.093
+concept:subpartof	concept:subpartof_concept:website:pbs	8.542	4.101
+concept:proxyfor	concept:proxyfor_concept:radiostation:new_jersey	7.964	5.760
+include	include_links	3.148	7.554
+provide	provide_information	1.613	4.516
+generalizations	generalizations_concept:hospital	5.660	4.056
+changed as	changed as_result	5.617	7.689
+concept:citylocatedinstate	concept:citylocatedinstate_concept:stateorprovince:utah	7.863	6.385
+concept:citylocatedinstate	concept:citylocatedinstate_concept:stateorprovince:colorado	8.213	5.980
+concept:professionistypeofprofession	concept:professionistypeofprofession_concept:profession:staff	7.429	7.739
+concept:journalistwritesforpublication	concept:journalistwritesforpublication_concept:blog:new_york_herald_tribune	8.056	5.122
+s	s_office	2.210	4.215
+concept:createdbyagent	concept:createdbyagent_concept:personus:dean_koontz	7.637	4.497
+generalizations	generalizations_concept:food	8.874	2.638
+left	left_office	2.365	2.171
+concept:itemfoundinroom	concept:itemfoundinroom_concept:room:bathrooms	4.819	8.132
+has	has_information	1.588	4.480
+concept:createdbyagent	concept:createdbyagent_concept:personus:terry_pratchett	8.951	4.540
+concept:personbelongstoorganization	concept:personbelongstoorganization_concept:city:college	9.261	4.010
+concept:controlledbyagent	concept:controlledbyagent_concept:sportsteam:ncaa_men	8.337	5.496
+concept:locationlocatedwithinlocation	concept:locationlocatedwithinlocation_concept:city:vegas	8.529	5.707
+generalizations	generalizations_concept:householditem	6.381	0.142
+need	need_water	4.919	4.138
+concept:chemicaltypehaschemical	concept:chemicaltypehaschemical_concept:chemical:water	4.351	7.122
+on	on_staff	5.585	6.784
+concept:personborninlocation	concept:personborninlocation_concept:placeofworship:york	8.444	4.012
+concept:atdate	concept:atdate_concept:dateliteral:n2002	7.578	2.431
+can use	can use_tools	4.760	6.047
+won	won_series	5.980	3.008
+concept:bodypartwithinbodypart	concept:bodypartwithinbodypart_concept:bodypart:atrium	9.344	4.390
+concept:teamplaysagainstteam	concept:teamplaysagainstteam_concept:sportsteam:new_york_jets	2.766	0.931
+concept:politicianusendorsedbypoliticianus	concept:politicianusendorsedbypoliticianus_concept:politicianus:gore	5.807	1.804
+concept:agentparticipatedinevent	concept:agentparticipatedinevent_concept:eventoutcome:title	8.863	3.895
+has	has_place	3.051	3.955
+concept:teamplaysagainstteam	concept:teamplaysagainstteam_concept:sportsteam:green_bay_packers	2.688	0.991
+has	has_bathtub	8.644	3.535
+concept:atlocation	concept:atlocation_concept:stateorprovince:indiana	5.297	2.648
+for	for_pain	3.569	6.561
+concept:chemicaltypehaschemical	concept:chemicaltypehaschemical_concept:chemical:sulfur	3.637	7.163
+send	send_email	3.019	3.002
+concept:teamplaysagainstteam	concept:teamplaysagainstteam_concept:sportsteam:golden_state_warriors	9.156	3.013
+concept:inverseofagriculturalproductgrowinginstateorprovince	concept:inverseofagriculturalproductgrowinginstateorprovince_concept:agriculturalproduct:flowers	3.778	5.216
+would take	would take_place	3.080	3.952
+concept:professionusestool	concept:professionusestool_concept:tool:tools	7.517	7.675
+concept:createdbyagent	concept:createdbyagent_concept:city:contact	9.119	4.769
+generalizations	generalizations_concept:fish	5.537	3.901
+autographed	autographed_baseball	5.773	6.003
+includes	includes_links	3.066	7.280
+concept:locationlocatedwithinlocation	concept:locationlocatedwithinlocation_concept:stateorprovince:texas	7.671	6.504
+concept:subpartof	concept:subpartof_concept:personmexico:ncaa	7.867	5.391
+generalizations	generalizations_concept:grain	8.608	5.063
+won	won_games	6.012	3.068
+concept:dateof	concept:dateof_concept:city:home	1.588	6.074
+concept:createdbyagent	concept:createdbyagent_concept:architect:stephen_king	7.875	4.404
+generalizations	generalizations_concept:bacteria	5.015	6.923
+concept:beveragemadefrombeverage	concept:beveragemadefrombeverage_concept:beverage:juice	9.598	5.699
+concept:athleteplaysforteam	concept:athleteplaysforteam_concept:sportsteam:red_sox	7.757	6.012
+concept:animalsuchasinvertebrate	concept:animalsuchasinvertebrate_concept:crustacean:shrimp	7.424	6.459
+come in	come in_contact	3.023	4.796
+concept:stadiumlocatedincity	concept:stadiumlocatedincity_concept:city:vegas	8.494	5.323
+concept:roomcancontainfurniture	concept:roomcancontainfurniture_concept:furniture:sofa_bed	6.698	2.089
+concept:athletebeatathlete	concept:athletebeatathlete_concept:athlete:williams	4.328	5.091
+generalizations	generalizations_concept:mediacompany	3.661	2.141
+put in	put in_place	3.154	3.912
+concept:dateof	concept:dateof_concept:city:place	1.392	5.890
+concept:clothingtogowithclothing	concept:clothingtogowithclothing_concept:clothing:trousers	9.939	4.896
+provides for	provides for_people	2.088	3.118
+concept:atlocation	concept:atlocation_concept:stateorprovince:maryland	5.179	7.386
+concept:agentcollaborateswithagent	concept:agentcollaborateswithagent_concept:personmexico:ncaa	7.727	5.465
+concept:academicprogramatuniversity	concept:academicprogramatuniversity_concept:university:harvard	8.061	6.766
+generalizations	generalizations_concept:skiarea	5.383	6.197
+concept:roomcancontainitem	concept:roomcancontainitem_concept:householditem:bedroom	3.778	4.312
+concept:countrylanguage	concept:countrylanguage_concept:language:english	6.062	0.953
+concept:proxyfor	concept:proxyfor_concept:stateorprovince:california	3.164	6.514
+concept:companyeconomicsector	concept:companyeconomicsector_concept:economicsector:insurance	8.780	4.602
+concept:teamplaysinleague	concept:teamplaysinleague_concept:sportsleague:nhl	3.632	3.391
+concept:invertebratefeedonfood	concept:invertebratefeedonfood_concept:agriculturalproduct:wood	7.183	3.696
+concept:atlocation	concept:atlocation_concept:stateorprovince:virginia	4.825	6.638
+concept:professiontypehasprofession	concept:professiontypehasprofession_concept:profession:practitioners	7.616	7.507
+generalizations	generalizations_concept:language	4.685	5.355
+concept:subpartoforganization	concept:subpartoforganization_concept:televisionnetwork:pbs	8.387	4.769
+concept:dateof	concept:dateof_concept:geometricshape:operation	1.668	5.765
+generalizations	generalizations_concept:personbylocation	5.643	2.691
+concept:agentcontrols	concept:agentcontrols_concept:person:world	9.381	3.884
+generalizations	generalizations_concept:personaustralia	5.249	4.844
+concept:animaldevelopdisease	concept:animaldevelopdisease_concept:disease:rabies	8.011	2.292
+have	have_place	3.177	3.903
+concept:bookwriter	concept:bookwriter_concept:writer:laurell_k__hamilton	8.185	4.932
+comes into	comes into_contact	3.003	4.820
+generalizations	generalizations_concept:shoppingmall	4.891	3.285
+will experience	will experience_side effects	8.706	5.919
+concept:dateof	concept:dateof_concept:city:service	1.484	5.731
+have	have_side effects	7.416	5.719
+concept:proxyfor	concept:proxyfor_concept:stateorprovince:minnesota	7.404	4.897
+concept:politicianusendorsespoliticianus	concept:politicianusendorsespoliticianus_concept:politicianus:bush	5.933	1.852
+concept:atdate	concept:atdate_concept:dateliteral:n2005	7.406	2.313
+concept:professionistypeofprofession	concept:professionistypeofprofession_concept:profession:nurses	7.319	8.174
+concept:teamplaysinleague	concept:teamplaysinleague_concept:sportsleague:wnba	8.597	5.078
+concept:stadiumhometoleague	concept:stadiumhometoleague_concept:sportsleague:mlb	8.603	3.886
+has as	has as_result	3.315	5.234
+concept:subpartof	concept:subpartof_concept:company:nbc	8.350	3.314
+concept:hasofficeincity	concept:hasofficeincity_concept:city:new_york_city	6.628	6.222
+needs	needs_people	1.923	3.222
+help	help_people	2.298	3.511
+helps	helps_people	2.185	3.041
+concept:countryhascitizen	concept:countryhascitizen_concept:person:king	7.074	2.913
+concept:subpartoforganization	concept:subpartoforganization_concept:sportsteam:ncaa_men	6.568	8.123
+concept:proxyfor	concept:proxyfor_concept:creditunion:north_carolina	8.270	6.821
+tell	tell_people	2.137	3.522
+concept:journalistwritesforpublication	concept:journalistwritesforpublication_concept:website:espn	8.622	5.017
+generalizations	generalizations_concept:bone	5.981	3.552
+concept:politicianrepresentslocation	concept:politicianrepresentslocation_concept:stateorprovince:states	5.867	2.138
+has	has_series	3.280	6.118
+generalizations	generalizations_concept:nondiseasecondition	7.973	3.553
+generalizations	generalizations_concept:medicalprocedure	4.938	5.539
+concept:athleteplaysforteam	concept:athleteplaysforteam_concept:sportsteam:yankees	7.890	4.590
+concept:athleteplaysforteam	concept:athleteplaysforteam_concept:sportsteam:marlins	7.699	3.933
+concept:bookwriter	concept:bookwriter_concept:writer:shakespeare	9.714	4.205
+united	united_states	6.011	5.548
+concept:dateof	concept:dateof_concept:country:england	1.591	5.555
+concept:geopoliticallocationresidenceofpersion	concept:geopoliticallocationresidenceofpersion_concept:politicianus:state	3.776	5.209
+played	played_guitar	2.513	5.372
+have	have_water	4.782	4.141
+concept:plantincludeplant	concept:plantincludeplant_concept:plant:tree	7.920	5.562
+won	won_championship	5.938	3.050
+may experience as	may experience as_result	6.712	7.181
+concept:atlocation	concept:atlocation_concept:bridge:new_jersey	8.483	5.469
+generalizations	generalizations_concept:software	5.790	1.501
+concept:chemicalistypeofchemical	concept:chemicalistypeofchemical_concept:chemical:water	7.801	4.751
+concept:chemicalistypeofchemical	concept:chemicalistypeofchemical_concept:chemical:fuels	3.957	7.445
+in	in_form	3.112	2.338
+concept:dateof	concept:dateof_concept:book:release	1.689	5.808
+generalizations	generalizations_concept:company	3.652	2.096
+concept:animalistypeofanimal	concept:animalistypeofanimal_concept:mammal:mammals	4.850	2.408
+concept:clothingtogowithclothing	concept:clothingtogowithclothing_concept:clothing:shirt	9.772	4.721
+generalizations	generalizations_concept:recipe	8.549	5.097
+concept:createdbyagent	concept:createdbyagent_concept:personus:charles_dickens	5.646	5.291
+s	s_painting	5.350	5.557
+concept:animalsuchasfish	concept:animalsuchasfish_concept:fish:trout	7.722	4.633
+concept:producedby	concept:producedby_concept:automobilemaker:ford	5.250	8.140
+lose as	lose as_result	6.692	7.382
+concept:inverseofanimaldevelopdisease	concept:inverseofanimaldevelopdisease_concept:mammal:dogs	8.797	5.394
+concept:buildinglocatedincity	concept:buildinglocatedincity_concept:city:new_york_city	4.105	3.898
+concept:professiontypehasprofession	concept:professiontypehasprofession_concept:profession:physicians	7.159	8.001
+generalizations	generalizations_concept:product	4.371	6.741
+concept:chemicalistypeofchemical	concept:chemicalistypeofchemical_concept:chemical:substances	3.910	7.607
+generalizations	generalizations_concept:mldataset	5.089	6.311
+concept:atlocation	concept:atlocation_concept:stateorprovince:massachusetts	6.781	5.082
+concept:inverseofacademicfieldsuchasacademicfield	concept:inverseofacademicfieldsuchasacademicfield_concept:academicfield:biology	8.292	5.387
+concept:hotelincity	concept:hotelincity_concept:city:los_angeles	8.668	6.423
+developed as	developed as_result	6.022	6.687
+will provide	will provide_information	1.604	4.489
+consists of	consists of_people	2.099	3.258
+concept:countrycurrency	concept:countrycurrency_concept:currency:dollars	5.885	1.154
+concept:proxyfor	concept:proxyfor_concept:book:new	6.620	5.880
+click for	click for_information	1.783	4.488
+obtained as	obtained as_result	5.744	5.798
+concept:professiontypehasprofession	concept:professiontypehasprofession_concept:profession:services	7.176	7.683
+concept:bodypartcontainsbodypart	concept:bodypartcontainsbodypart_concept:artery:vessels	6.245	4.614
+contain	contain_water	5.071	4.307
+won	won_Super Bowl	8.921	4.338
+generalizations	generalizations_concept:lymphnode	8.585	5.132
+holds	holds_water	5.859	4.972
+concept:agriculturalproductcutintogeometricshape	concept:agriculturalproductcutintogeometricshape_concept:geometricshape:dice	4.385	2.712
+concept:athleteplaysforteam	concept:athleteplaysforteam_concept:sportsteam:tampa	8.481	5.730
+generalizations	generalizations_concept:director	7.373	3.516
+generalizations	generalizations_concept:televisionshow	4.778	5.710
+concept:teamplaysinleague	concept:teamplaysinleague_concept:sportsleague:mlb	4.235	2.206
+concept:sportusesequipment	concept:sportusesequipment_concept:sportsequipment:ball	5.613	8.369
+generalizations	generalizations_concept:physiologicalcondition	9.539	3.574
+concept:chemicalistypeofchemical	concept:chemicalistypeofchemical_concept:chemical:gases	3.822	7.330
+concept:fishservedwithfood	concept:fishservedwithfood_concept:condiment:sauce	7.665	4.344
+wrote in	wrote in_New York Times	8.980	6.355
+arise as	arise as_result	8.076	3.387
+concept:citylocatedinstate	concept:citylocatedinstate_concept:stateorprovince:kentucky	8.717	5.833
+generalizations	generalizations_concept:conference	5.404	4.472
+develop as	develop as_result	6.597	7.143
+concept:journalistwritesforpublication	concept:journalistwritesforpublication_concept:politicsblog:los_angeles_times	8.492	5.447
+concept:inverseofacademicfieldsuchasacademicfield	concept:inverseofacademicfieldsuchasacademicfield_concept:politicsissue:science	4.334	6.374
+concept:televisionstationaffiliatedwith	concept:televisionstationaffiliatedwith_concept:televisionnetwork:pbs	8.604	4.060
+has	has_form	3.097	2.388
+generalizations	generalizations_concept:visualartist	2.438	8.162
+concept:arthropodandotherarthropod	concept:arthropodandotherarthropod_concept:insect:insects	5.256	1.137
+concept:attractionofcity	concept:attractionofcity_concept:city:london	7.893	6.232
+concept:fooddecreasestheriskofdisease	concept:fooddecreasestheriskofdisease_concept:disease:cancer	8.725	6.162
+concept:inverseofarterycalledartery	concept:inverseofarterycalledartery_concept:artery:arteries	1.342	5.039
+concept:dateof	concept:dateof_concept:visualartmovement:united_states	1.545	5.731
+had	had_air	7.448	6.873
+concept:citylocatedinstate	concept:citylocatedinstate_concept:stateorprovince:michigan	7.174	4.415
+meet	meet_people	2.485	3.590
+need	need_people	2.271	3.638
+concept:beveragemadefrombeverage	concept:beveragemadefrombeverage_concept:wine:sauvignon	8.241	4.681
+contains	contains_links	3.063	7.267
+generalizations	generalizations_concept:religion	5.175	5.008
+have as	have as_result	6.626	7.245
+generalizations	generalizations_concept:geopoliticalorganization	6.974	1.197
+generalizations	generalizations_concept:arthropod	2.179	5.096
+concept:atlocation	concept:atlocation_concept:stateorprovince:arizona	8.508	4.340
+in	in_office	2.329	2.206
+concept:countrylanguage	concept:countrylanguage_concept:language:french	7.167	5.503
+s	s_New	6.575	5.627
+generalizations	generalizations_concept:transportation	6.435	3.782
+concept:createdbyagent	concept:createdbyagent_concept:personus:clive_cussler	6.882	6.456
+generalizations	generalizations_concept:governmentorganization	3.322	3.491
+concept:arthropodthatfeedoninsect	concept:arthropodthatfeedoninsect_concept:insect:insects	8.799	4.454
+concept:agentcreated	concept:agentcreated_concept:city:contact	7.301	4.097
+concept:agentinvolvedwithitem	concept:agentinvolvedwithitem_concept:hallwayitem:windows	7.458	4.169
+went out	went out_window	4.699	3.154
+concept:professionusestool	concept:professionusestool_concept:sportsequipment:products	8.347	7.132
+concept:producedby	concept:producedby_concept:company:apple	8.583	4.367
+concept:animalsuchasfish	concept:animalsuchasfish_concept:fish:sharks	8.158	3.605
+concept:inverseofplantincludeplant	concept:inverseofplantincludeplant_concept:plant:trees	7.252	5.394
+concept:citylocatedinstate	concept:citylocatedinstate_concept:stateorprovince:maine	8.235	5.368
+concept:teamplayssport	concept:teamplayssport_concept:sport:football	2.932	0.714
+find	find_information	1.704	4.529
+concept:teamingame	concept:teamingame_concept:sportsgame:games	3.185	1.165
+takes	takes_place	2.923	3.987
+concept:athleteplayssportsteamposition	concept:athleteplayssportsteamposition_concept:sportsteamposition:running_back	7.389	6.072
+went as	went as_result	6.378	6.745
+generalizations	generalizations_concept:chef	4.814	7.148
+concept:countrylanguage	concept:countrylanguage_concept:language:arabic	2.658	6.978
+plays	plays_guitar	2.512	5.372
+concept:bodypartwithinbodypart	concept:bodypartwithinbodypart_concept:bodypart:heart	6.598	5.290
+develop	develop_tools	5.147	5.942
+have	have_people	2.133	3.570
+concept:proxyfor	concept:proxyfor_concept:website:new	8.448	3.523
+in	in_New York	9.277	5.141
+generalizations	generalizations_concept:monarch	6.210	3.800
+concept:animalistypeofanimal	concept:animalistypeofanimal_concept:mammal:animals	5.077	2.012
+concept:politicianholdsoffice	concept:politicianholdsoffice_concept:politicaloffice:president	6.388	2.732
+reported in	reported in_New York Times	7.723	6.094
+will open	will open_window	4.845	2.872
+generalizations	generalizations_concept:mountain	5.835	3.456
+concept:teamplaysinleague	concept:teamplaysinleague_concept:sportsleague:nba	9.142	3.047
+require	require_water	5.049	4.034
+include	include_air	7.929	3.742
+concept:journalistwritesforpublication	concept:journalistwritesforpublication_concept:company:daily_news001	8.618	5.076
+concept:locatedat	concept:locatedat_concept:sportsleague:national	9.250	5.272
+concept:teamplaysagainstteam	concept:teamplaysagainstteam_concept:sportsteam:seahawks	2.772	0.987
+generalizations	generalizations_concept:drug	6.329	5.146
+concept:stadiumhometoleague	concept:stadiumhometoleague_concept:sportsleague:nfl	7.712	3.824
+generalizations	generalizations_concept:politicaloffice	6.894	3.156
+concept:athleteplaysforteam	concept:athleteplaysforteam_concept:sportsteam:dayton_flyers_basketball	8.821	5.239
+generalizations	generalizations_concept:monument	4.979	4.840
+chat	chat_window	6.905	3.874
+concept:teamplaysagainstteam	concept:teamplaysagainstteam_concept:sportsteam:rangers	4.270	1.909
+concept:iteminvolvedwithagent	concept:iteminvolvedwithagent_concept:company:adobe_systems_inc_	8.055	4.721
+provide	provide_links	3.146	7.547
+generalizations	generalizations_concept:weatherphenomenon	5.387	4.969
+generalizations	generalizations_concept:farm	8.863	5.158
+concept:proxyfor	concept:proxyfor_concept:creditunion:michigan	8.832	5.714
+has	has_state	5.210	3.080
+generalizations	generalizations_concept:archaea	9.090	7.320
+includes	includes_people	2.012	3.320
+concept:roomcancontainitem	concept:roomcancontainitem_concept:furniture:beds	3.888	4.641
+concept:citylocatedinstate	concept:citylocatedinstate_concept:stateorprovince:wisconsin	6.864	5.967
+arose as	arose as_result	8.070	3.367
+generalizations	generalizations_concept:vertebrate	4.648	1.541
+concept:controlledbyagent	concept:controlledbyagent_concept:city:abc	8.748	4.348
+concept:inverseoffooddecreasestheriskofdisease	concept:inverseoffooddecreasestheriskofdisease_concept:meat:breast	8.045	4.009
+in	in_world	9.501	5.304
+have	have_links	3.152	7.562
+go as	go as_result	6.390	6.885
+provides	provides_tools	2.669	5.801
+generalizations	generalizations_concept:nonneginteger	7.915	4.828
+concept:equipmentusedbysport	concept:equipmentusedbysport_concept:sport:golf	4.328	5.940
+concept:agentbelongstoorganization	concept:agentbelongstoorganization_concept:sportsleague:mls	7.532	6.002
+in in	in in_United States	5.297	3.120
+generalizations	generalizations_concept:person	5.687	2.633
+concept:inverseofagriculturalproductgrowninlandscapefeature	concept:inverseofagriculturalproductgrowninlandscapefeature_concept:agriculturalproduct:flowers	8.628	5.518
+concept:dateof	concept:dateof_concept:governmentorganization:government	1.627	5.737
+concept:journalistwritesforpublication	concept:journalistwritesforpublication_concept:blog:abc	8.422	5.058
+writes in	writes in_New York Times	7.747	6.232
+concept:locationlocatedwithinlocation	concept:locationlocatedwithinlocation_concept:stateorprovince:house	3.914	5.756
+concept:statelocatedincountry	concept:statelocatedincountry_concept:country:united_states	3.763	5.207
+generalizations	generalizations_concept:trainstation	5.623	5.037
+concept:inverseoffoodcancausedisease	concept:inverseoffoodcancausedisease_concept:agriculturalproduct:sugar	4.663	6.896
+concept:organizationhiredperson	concept:organizationhiredperson_concept:person:white	6.128	8.103
+concept:sportsteampositionforsport	concept:sportsteampositionforsport_concept:sport:football	8.032	6.118
+concept:citylocatedinstate	concept:citylocatedinstate_concept:stateorprovince:new_hampshire	8.002	5.420
+concept:locatedat	concept:locatedat_concept:visualartmovement:american	7.085	5.740
+arises as	arises as_result	6.061	6.062
+concept:drughassideeffect	concept:drughassideeffect_concept:disease:side_effects	6.393	5.136
+concept:mammalsuchasmammal	concept:mammalsuchasmammal_concept:mammal:deer	6.394	4.216
+elected	elected_President	2.553	1.967
+concept:athleteplaysforteam	concept:athleteplaysforteam_concept:sportsteam:los_angeles_lakers	9.075	5.160
+has	has_search	3.735	5.940
+concept:chemicaltypehaschemical	concept:chemicaltypehaschemical_concept:chemical:carbon_dioxide	4.404	7.227
+concept:subpartoforganization	concept:subpartoforganization_concept:televisionnetwork:upn	7.987	4.882
+concept:teamplaysagainstteam	concept:teamplaysagainstteam_concept:sportsteam:chargers	2.699	0.966
+concept:clothingtogowithclothing	concept:clothingtogowithclothing_concept:clothing:shoes	9.872	4.744
+in	in_house	7.150	4.011
+concept:atlocation	concept:atlocation_concept:beach:connecticut	3.469	5.723
+concept:subpartoforganization	concept:subpartoforganization_concept:company:state	7.255	4.710
+concept:atlocation	concept:atlocation_concept:stateorprovince:michigan	7.378	4.525
+prevent	prevent_cancer	6.066	5.028
+concept:athleteplaysforteam	concept:athleteplaysforteam_concept:sportsteam:new_york_islanders	9.006	5.118
+reach	reach_people	2.441	3.438
+provide	provide_tools	2.837	5.747
+concept:dateof	concept:dateof_concept:televisionshow:house	1.823	6.047
+concept:atdate	concept:atdate_concept:year:n1997	7.460	2.633
+concept:superpartof	concept:superpartof_concept:weapon:facilities	7.624	3.395
+concept:proxyfor	concept:proxyfor_concept:company:florida	5.149	5.149
+begin	begin_search	6.597	2.982
+click on	click on_link	3.005	2.645
+generalizations	generalizations_concept:automobilemaker	8.484	5.100
+generalizations	generalizations_concept:model	5.413	3.401
+concept:inverseofanimaleatfood	concept:inverseofanimaleatfood_concept:bird:birds	9.347	5.543
+concept:athleteplayssport	concept:athleteplayssport_concept:sport:baseball	7.157	6.034
+concept:clothingtogowithclothing	concept:clothingtogowithclothing_concept:clothing:shirts	9.793	4.722
+has suffered as	has suffered as_result	5.854	7.370
+concept:citylocatedinstate	concept:citylocatedinstate_concept:stateorprovince:alabama	7.525	5.424
+concept:inverseofanimaldevelopdisease	concept:inverseofanimaldevelopdisease_concept:animal:children	7.930	4.988
+concept:equipmentusedbysport	concept:equipmentusedbysport_concept:sport:tennis	4.380	5.927
+concept:subpartoforganization	concept:subpartoforganization_concept:televisionnetwork:cbs	7.567	4.693
+looking for	looking for_people	2.162	3.373
+concept:animaltypehasanimal	concept:animaltypehasanimal_concept:mammal:pigs	8.045	2.331
+concept:inverseofanimaldevelopdisease	concept:inverseofanimaldevelopdisease_concept:animal:child	8.076	4.993
+concept:roomcancontainfurniture	concept:roomcancontainfurniture_concept:furniture:sofa	6.699	2.090
+means	means_people	2.503	3.243
+concept:politicianusholdsoffice	concept:politicianusholdsoffice_concept:politicaloffice:president	7.803	3.543
+generalizations	generalizations_concept:professor	7.014	2.669
+concept:proxyfor	concept:proxyfor_concept:stateorprovince:texas	7.637	6.551
+concept:countrylocatedingeopoliticallocation	concept:countrylocatedingeopoliticallocation_concept:geopoliticallocation:north_africa	2.658	6.978
+come as	come as_result	6.403	6.841
+concept:creativeworkcontributedtobyagent	concept:creativeworkcontributedtobyagent_concept:personaustralia:william_shakespeare	9.710	4.207
+concept:inverseofagriculturalproducttoattractinsect	concept:inverseofagriculturalproducttoattractinsect_concept:agriculturalproduct:flowers	5.517	1.213
+concept:athleteplaysforteam	concept:athleteplaysforteam_concept:sportsteam:new_york_mets	6.931	5.324
+concept:teamplaysinleague	concept:teamplaysinleague_concept:sportsleague:nfl	2.888	0.750
+concept:animalpreyson	concept:animalpreyson_concept:mammal:dogs	8.112	2.084
+concept:citylocatedinstate	concept:citylocatedinstate_concept:stateorprovince:ohio	9.118	5.529
+generalizations	generalizations_concept:event	4.743	6.364
+provides	provides_access	2.717	2.699
+had as	had as_result	6.376	7.518
+came into	came into_contact	3.016	4.792
+does have	does have_side effects	7.600	5.631
+includes	includes_information	1.592	4.486
+concept:athleteplaysforteam	concept:athleteplaysforteam_concept:sportsteam:new_york_jets	8.539	5.094
+among	among_animals	6.993	5.459
+takes	takes_form	3.120	2.313
+generalizations	generalizations_concept:retailstore	7.092	0.673
+concept:politicianusmemberofpoliticalgroup	concept:politicianusmemberofpoliticalgroup_concept:organization:senate	8.251	5.244
+will take	will take_place	2.950	3.978
+generalizations	generalizations_concept:recordlabel	5.917	3.874
+please	please_contact	2.667	4.741
+concept:bakedgoodservedwithbeverage	concept:bakedgoodservedwithbeverage_concept:beverage:chocolate	4.822	7.518
+had	had_side effects	8.736	6.014
+concept:teamalsoknownas	concept:teamalsoknownas_concept:sportsteam:state_university	7.504	6.693
+is helping	is helping_people	2.378	3.196
+generalizations	generalizations_concept:personafrica	5.355	6.847
+concept:dateof	concept:dateof_concept:city:business	1.657	5.774
+concept:inverseoffoodcancausedisease	concept:inverseoffoodcancausedisease_concept:food:glucose	4.664	6.896
+concept:animalistypeofanimal	concept:animalistypeofanimal_concept:mammal:wild_animals	4.908	2.362
+generalizations	generalizations_concept:attraction	5.378	6.201
+concept:animalpreyson	concept:animalpreyson_concept:mammal:animals	5.138	2.070
+concept:istallerthan	concept:istallerthan_concept:magazine:people	3.781	5.148
+concept:musicartistgenre	concept:musicartistgenre_concept:musicgenre:metal	9.094	5.412
+generalizations	generalizations_concept:cave	6.680	3.291
+receive as	receive as_result	6.539	7.076
+take as	take as_result	6.447	6.955
+in	in_people	2.561	3.456
+asked	asked_people	2.143	3.308
+has changed as	has changed as_result	5.590	7.545
+concept:teamplayssport	concept:teamplayssport_concept:sport:baseball	4.236	2.203
+concept:agentcompeteswithagent	concept:agentcompeteswithagent_concept:bird:birds	8.641	6.142
+concept:teamplaysagainstteam	concept:teamplaysagainstteam_concept:sportsteam:indians	4.272	2.010
+concept:animalsuchasinsect	concept:animalsuchasinsect_concept:insect:insects	5.129	1.103
+concept:proxyfor	concept:proxyfor_concept:beach:connecticut	3.470	5.722
+concept:citylocatedinstate	concept:citylocatedinstate_concept:stateorprovince:new_mexico	8.149	5.617
+has	has_tools	2.703	5.785
+concept:locatedat	concept:locatedat_concept:website:new	7.359	1.467
+concept:inverseofanimaleatfood	concept:inverseofanimaleatfood_concept:animal:chicken001	7.078	4.858
+concept:teamplaysagainstteam	concept:teamplaysagainstteam_concept:sportsteam:rams	2.783	0.990
+concept:mutualproxyfor	concept:mutualproxyfor_concept:radiostation:new_jersey	8.562	6.089
+generalizations	generalizations_concept:astronaut	5.605	6.292
+concept:clothingtogowithclothing	concept:clothingtogowithclothing_concept:clothing:pants	10.000	4.964
+concept:atdate	concept:atdate_concept:date:n1946	7.493	3.016
+concept:proxyfor	concept:proxyfor_concept:stateorprovince:indiana	5.292	2.646
+concept:arterycalledartery	concept:arterycalledartery_concept:artery:arteries	1.342	5.039
+opens	opens_window	4.840	2.860
+concept:universityoperatesinlanguage	concept:universityoperatesinlanguage_concept:language:french	7.041	3.661
+concept:professionistypeofprofession	concept:professionistypeofprofession_concept:profession:professionals	3.231	4.473
+in	in_series	3.262	5.508
+dies as	dies as_result	6.373	6.206
+concept:athleteplaysforteam	concept:athleteplaysforteam_concept:sportsteam:st_louis_cardinals	8.645	6.508
+comes in	comes in_form	3.115	2.328
+concept:inverseofbankbankincountry	concept:inverseofbankbankincountry_concept:bank:national	6.587	1.427
+concept:atdate	concept:atdate_concept:year:n1973	7.619	2.861
+in	in_pain	3.569	6.561
+concept:animalistypeofanimal	concept:animalistypeofanimal_concept:animal:creatures	4.887	2.294
+concept:athleteplaysforteam	concept:athleteplaysforteam_concept:sportsteam:boston_bruins	7.529	4.574
+concept:iteminvolvedwithagent	concept:iteminvolvedwithagent_concept:company:inc__microsoft	8.538	6.869
+generalizations	generalizations_concept:beverage	3.548	3.994
+changing as	changing as_result	5.529	7.655
+may occur as	may occur as_result	6.173	6.380
+refine	refine_search	6.601	2.988
+generalizations	generalizations_concept:geometricshape	5.020	3.565
+concept:citylocatedinstate	concept:citylocatedinstate_concept:stateorprovince:virginia	7.064	6.435
+generalizations	generalizations_concept:vegetable	4.368	3.191
+suffered as	suffered as_result	6.050	7.246
+concept:atlocation	concept:atlocation_concept:stateorprovince:california	6.490	6.384
+concept:agentbelongstoorganization	concept:agentbelongstoorganization_concept:recordlabel:friends	9.361	4.063
+generalizations	generalizations_concept:eventoutcome	5.691	4.542
+fill with	fill with_water	5.994	4.815
+concept:inverseofathletesuchasathlete	concept:inverseofathletesuchasathlete_concept:athlete:football_players	8.258	4.892
+concept:superpartof	concept:superpartof_concept:buildingfeature:systems	7.623	3.369
+elected	elected_president	2.556	1.969
+concept:cityhascompanyoffice	concept:cityhascompanyoffice_concept:company:national_flood_insurance_program	9.116	6.095
+concept:journalistwritesforpublication	concept:journalistwritesforpublication_concept:website:boston_globe	8.781	5.049
+concept:atdate	concept:atdate_concept:date:home	2.121	6.428
+concept:superpartof	concept:superpartof_concept:buildingfeature:services	7.624	3.396
+may suffer as	may suffer as_result	6.150	7.117
+concept:citylocatedinstate	concept:citylocatedinstate_concept:stateorprovince:hawaii	5.892	5.868
+win	win_games	6.083	3.206
+generalizations	generalizations_concept:radiostation	6.431	3.334
+concept:citylocatedinstate	concept:citylocatedinstate_concept:stateorprovince:house	7.824	6.579
+generalizations	generalizations_concept:book	6.334	4.058
+concept:animalpreyson	concept:animalpreyson_concept:mammal:pets	5.321	2.136
+provide with	provide with_tools	2.963	5.731
+use	use_tools	4.926	6.015
+includes	includes_search	4.241	5.572
+concept:citylocatedinstate	concept:citylocatedinstate_concept:stateorprovince:california	6.821	5.815
+s	s_paintings	5.344	5.557
+causes	causes_side effects	8.217	5.728
+concept:proxyfor	concept:proxyfor_concept:stateorprovince:colorado	4.767	5.118
+concept:countrylocatedingeopoliticallocation	concept:countrylocatedingeopoliticallocation_concept:stateorprovince:states	5.990	0.887
+concept:chemicalistypeofchemical	concept:chemicalistypeofchemical_concept:chemical:gas	3.945	7.338
+concept:dateof	concept:dateof_concept:sportsgame:first_time	1.609	5.783
+concept:agentcreated	concept:agentcreated_concept:programminglanguage:contact	7.400	4.148
+concept:citylocatedincountry	concept:citylocatedincountry_concept:country:united_states	8.998	5.911
+generalizations	generalizations_concept:buildingmaterial	7.216	3.180
+concept:atlocation	concept:atlocation_concept:stateorprovince:florida	5.787	6.162
+concept:bodypartwithinbodypart	concept:bodypartwithinbodypart_concept:bodypart:ventricle001	9.341	4.392
+at	at_service	5.672	6.598
+concept:subpartoforganization	concept:subpartoforganization_concept:televisionnetwork:fox	7.848	5.079
+generalizations	generalizations_concept:date	4.471	0.326
+stuffed	stuffed_animals	6.340	5.978
+had	had_water	4.778	4.102
+concept:bakedgoodservedwithbeverage	concept:bakedgoodservedwithbeverage_concept:beverage:tea	4.698	7.593
+concept:inverseofagriculturalproductcamefromcountry	concept:inverseofagriculturalproductcamefromcountry_concept:agriculturalproduct:flowers	6.562	1.400
+concept:chemicaltypehaschemical	concept:chemicaltypehaschemical_concept:chemical:dioxide	4.254	7.274
+concept:producedby	concept:producedby_concept:company:inc__microsoft	8.840	5.415
+makes	makes_people	2.279	3.222
+change as	change as_result	6.236	6.890
+concept:teamplaysinleague	concept:teamplaysinleague_concept:sportsleague:mls	8.739	5.067
+concept:professionistypeofprofession	concept:professionistypeofprofession_concept:profession:physicians	7.161	8.004
+concept:mutualproxyfor	concept:mutualproxyfor_concept:website:new	1.887	5.906
+generalizations	generalizations_concept:geopoliticalentity	6.980	1.200
+concept:agentcompeteswithagent	concept:agentcompeteswithagent_concept:university:google	7.198	5.096
+concept:animaltypehasanimal	concept:animaltypehasanimal_concept:mammal:dogs	8.115	2.080
+get	get_people	2.414	3.480
+concept:proxyfor	concept:proxyfor_concept:stateorprovince:virginia	4.818	6.641
+concept:subpartoforganization	concept:subpartoforganization_concept:city:pax	8.745	6.346
+concept:televisionstationaffiliatedwith	concept:televisionstationaffiliatedwith_concept:televisionnetwork:nbc_universal	5.361	9.506
+had	had_tools	4.786	5.993
+concept:athleteplaysforteam	concept:athleteplaysforteam_concept:sportsteam:penguins	8.273	5.100
+generalizations	generalizations_concept:mediatype	5.127	3.710
+have changed as	have changed as_result	6.417	6.939
+generalizations	generalizations_concept:awardtrophytournament	6.154	3.616
+concept:athleteplaysforteam	concept:athleteplaysforteam_concept:sportsteam:red_wings	8.133	5.183
+concept:atlocation	concept:atlocation_concept:stateorprovince:new_york	8.525	6.246
+concept:dateof	concept:dateof_concept:televisionshow:office	1.663	5.949
+generalizations	generalizations_concept:mlauthor	6.865	2.981
+concept:teamwontrophy	concept:teamwontrophy_concept:awardtrophytournament:world_series	4.239	2.179
+concept:agentcollaborateswithagent	concept:agentcollaborateswithagent_concept:person:john003	7.922	5.204
+concept:dateof	concept:dateof_concept:magazine:time	1.469	5.764
+generalizations	generalizations_concept:sociopolitical	8.619	5.022
+concept:inverseofanimalsuchasinvertebrate	concept:inverseofanimalsuchasinvertebrate_concept:arthropod:invertebrates	6.428	4.869
+concept:atdate	concept:atdate_concept:date:meeting	2.124	6.432
+falls into	falls into_water	9.378	5.912
+concept:journalistwritesforpublication	concept:journalistwritesforpublication_concept:politicsblog:cnn	8.611	5.338
+concept:personbelongstoorganization	concept:personbelongstoorganization_concept:musicartist:times	8.801	5.946
+concept:teamplaysagainstteam	concept:teamplaysagainstteam_concept:sportsteam:atlanta_braves	4.266	2.008
+made as	made as_result	6.892	6.620
+has	has_sofa bed	8.961	3.465
+began as	began as_result	4.241	8.020
+concept:athleteplaysforteam	concept:athleteplaysforteam_concept:sportsteam:rangers	7.957	6.645
+find	find_people	2.493	3.652
+generalizations	generalizations_concept:dateliteral	1.877	5.685
+concept:teamingame	concept:teamingame_concept:sportsgame:championship	3.248	1.263
+s as	s as_result	6.128	6.593
+concept:subpartof	concept:subpartof_concept:weatherphenomenon:water	7.419	6.340
+generalizations	generalizations_concept:convention	0.642	3.879
+concept:subpartof	concept:subpartof_concept:stateorprovince:california	8.399	6.036
+concept:createdbyagent	concept:createdbyagent_concept:personeurope:james_patterson	8.971	5.322
+play	play_baseball	8.001	2.884
+concept:athleteplaysforteam	concept:athleteplaysforteam_concept:sportsteam:new_jersey_devils	8.628	5.012
+concept:agentinvolvedwithitem	concept:agentinvolvedwithitem_concept:musicinstrument:guitar	8.141	6.307
+concept:hasofficeincountry	concept:hasofficeincountry_concept:country:uk	1.392	3.818
+generalizations	generalizations_concept:zipcode	6.249	5.841
+concept:atlocation	concept:atlocation_concept:stateorprovince:house	4.533	5.494
+generalizations	generalizations_concept:geopoliticallocation	7.024	1.226
+ran for	ran for_President	2.456	1.973
+concept:teamplaysagainstteam	concept:teamplaysagainstteam_concept:sportsteam:new_york_giants	2.850	1.185
+generalizations	generalizations_concept:personnorthamerica	5.615	2.735
+concept:dateof	concept:dateof_concept:musicsong:night	1.671	5.768
+dissolves in	dissolves in_water	4.850	3.656
+concept:citylocatedinstate	concept:citylocatedinstate_concept:stateorprovince:pennsylvania	9.000	4.913
+served as	served as_president	5.705	4.879
+suffers as	suffers as_result	5.814	7.404
+generalizations	generalizations_concept:female	6.630	3.210
+occurred as	occurred as_result	6.066	6.353
+get in	get in_contact	3.136	3.169
+concept:personhascitizenship	concept:personhascitizenship_concept:country:france	6.628	4.853
+concept:proxyfor	concept:proxyfor_concept:stateorprovince:newjersey	9.293	5.437
+concept:proxyfor	concept:proxyfor_concept:stateorprovince:michigan	7.421	4.538
+generalizations	generalizations_concept:organization	3.648	2.057
+concept:atlocation	concept:atlocation_concept:stateorprovince:ohio	8.093	4.377
+concept:automobilemakerdealersincountry	concept:automobilemakerdealersincountry_concept:country:canada	1.394	3.819
+generalizations	generalizations_concept:tradeunion	5.733	3.885
+concept:agentparticipatedinevent	concept:agentparticipatedinevent_concept:sportsgame:result	7.742	3.143
+bring	bring_people	2.391	3.459
+concept:stadiumlocatedincity	concept:stadiumlocatedincity_concept:city:new_york_city	8.431	5.168
+concept:atdate	concept:atdate_concept:year:n1919	7.468	3.036
+generalizations	generalizations_concept:sportsteamposition	8.008	6.161
+brings	brings_people	2.301	3.104
+generalizations	generalizations_concept:personus	5.561	2.860
+in	in_search	4.306	5.501
+concept:stadiumhometosport	concept:stadiumhometosport_concept:sport:basketball	3.700	3.731
+concept:athleteplayssport	concept:athleteplayssport_concept:sport:hockey	8.644	2.349
+vary from	vary from_state	7.855	3.727
+generalizations	generalizations_concept:perceptionaction	6.318	3.561
+generalizations	generalizations_concept:abstractthing	7.203	4.554
+concept:agentcollaborateswithagent	concept:agentcollaborateswithagent_concept:politician:obama	5.696	1.843
+about	about_people	2.332	3.201
+has come as	has come as_result	5.802	7.023
+generated as	generated as_result	9.144	6.414
+concept:teamplaysinleague	concept:teamplaysinleague_concept:sportsleague:ncaa	6.568	8.123
+answer	answer_questions	2.053	4.516
+concept:locatedat	concept:locatedat_concept:museum:national	9.046	6.008
+generalizations	generalizations_concept:militaryconflict	2.996	6.731
+concept:geopoliticallocationcontainsstate	concept:geopoliticallocationcontainsstate_concept:stateorprovince:states	6.216	0.937
+concept:proxyfor	concept:proxyfor_concept:stateorprovince:illinois	7.360	5.872
+concept:inverseofagriculturalproductincludingagriculturalproduct	concept:inverseofagriculturalproductincludingagriculturalproduct_concept:agriculturalproduct:products	4.242	2.796
+concept:animalpreyson	concept:animalpreyson_concept:bird:birds	8.361	3.786
+concept:citylocatedinstate	concept:citylocatedinstate_concept:stateorprovince:new_jersey	7.764	5.823
+at as	at as_result	6.722	7.109
+concept:teamplaysagainstteam	concept:teamplaysagainstteam_concept:sportsteam:broncos	2.740	0.983
+concept:professionistypeofprofession	concept:professionistypeofprofession_concept:profession:teachers	7.047	7.971
+can occur as	can occur as_result	6.175	6.379
+concept:cityliesonriver	concept:cityliesonriver_concept:river:rio_de_janeiro	8.191	6.028
+concept:subpartof	concept:subpartof_concept:physiologicalcondition:water_supply	7.873	3.932
+concept:universityhasacademicprogram	concept:universityhasacademicprogram_concept:politicsissue:engineering	4.096	3.533
+generalizations	generalizations_concept:stateorprovince	8.545	4.865
+concept:animaltypehasanimal	concept:animaltypehasanimal_concept:mammal:animals	5.222	2.094
+concept:personborninlocation	concept:personborninlocation_concept:county:york_city	9.216	4.204
+concept:isoneoccurrenceof	concept:isoneoccurrenceof_concept:vertebrate:herds	7.313	4.373
+concept:agentbelongstoorganization	concept:agentbelongstoorganization_concept:sportsteam:ncaa_men	7.791	4.520
+generalizations	generalizations_concept:sportsgame	8.228	5.140
+s	s_people	1.945	3.472
+concept:inverseofbakedgoodservedwithbeverage	concept:inverseofbakedgoodservedwithbeverage_concept:bakedgood:cookies	9.555	5.745
+concept:professiontypehasprofession	concept:professiontypehasprofession_concept:profession:doctors	7.212	8.053
+in	in_state	5.149	3.048
+generalizations	generalizations_concept:game	2.697	6.386
+concept:locatedat	concept:locatedat_concept:book:new	3.891	6.238
+concept:subpartoforganization	concept:subpartoforganization_concept:company:fox	9.120	5.054
+generalizations	generalizations_concept:location	5.984	4.088
+concept:bookwriter	concept:bookwriter_concept:personeurope:charles_dickens	5.648	5.291
+based	based_products	8.875	6.251
+generalizations	generalizations_concept:insect	2.179	5.095
+generalizations	generalizations_concept:mountainrange	5.313	3.913
+concept:automobilemakercardealersinstateorprovince	concept:automobilemakercardealersinstateorprovince_concept:stateorprovince:virginia	1.394	3.819
+concept:itemfoundinroom	concept:itemfoundinroom_concept:room:bathroom	4.772	8.179
+concept:teamplayssport	concept:teamplayssport_concept:sport:basketball	9.225	3.088
+concept:automodelproducedbymaker	concept:automodelproducedbymaker_concept:automobilemaker:toyota	8.099	4.905
+generalizations	generalizations_concept:actor	0.497	5.122
+concept:journalistwritesforpublication	concept:journalistwritesforpublication_concept:website:cbs	8.628	5.506
+concept:controlledbyagent	concept:controlledbyagent_concept:governmentorganization:government	7.466	6.187
+generalizations	generalizations_concept:filmfestival	7.296	3.371
+concept:createdbyagent	concept:createdbyagent_concept:personaustralia:william_shakespeare	9.662	4.241
+concept:chemicalistypeofchemical	concept:chemicalistypeofchemical_concept:chemical:sulfur	3.637	7.174
+lost as	lost as_result	6.306	7.208
+generalizations	generalizations_concept:county	4.964	5.714
+generalizations	generalizations_concept:televisionstation	6.492	8.650
+come into	come into_contact	3.006	4.778
+give	give_information	1.781	4.461
+concept:athletewinsawardtrophytournament	concept:athletewinsawardtrophytournament_concept:awardtrophytournament:us_open	4.278	5.105
+concept:inverseofsportschoolincountry	concept:inverseofsportschoolincountry_concept:sport:ski	6.002	0.863
+concept:animalpreyson	concept:animalpreyson_concept:mammal:cats	8.072	2.177
+concept:clothingtogowithclothing	concept:clothingtogowithclothing_concept:clothing:top	9.762	4.646
+generalizations	generalizations_concept:website	3.788	2.695
+concept:chemicalistypeofchemical	concept:chemicalistypeofchemical_concept:chemical:nitrogen	3.679	7.268
+concept:inverseofbeveragemadefrombeverage	concept:inverseofbeveragemadefrombeverage_concept:wine:blend	8.249	4.753
+generalizations	generalizations_concept:planet	8.825	5.157
+concept:teamplaysagainstteam	concept:teamplaysagainstteam_concept:sportsteam:celtics	9.141	3.053
+concept:agentbelongstoorganization	concept:agentbelongstoorganization_concept:sportsleague:nfl	6.393	2.093
+concept:personmovedtostateorprovince	concept:personmovedtostateorprovince_concept:stateorprovince:new_york	6.797	4.373
+concept:personbelongstoorganization	concept:personbelongstoorganization_concept:sportsleague:nfl	8.322	4.962
+concept:agriculturalproductcookedwithagriculturalproduct	concept:agriculturalproductcookedwithagriculturalproduct_concept:food:peppers	4.462	2.803
+concept:animalistypeofanimal	concept:animalistypeofanimal_concept:mammal:cats	8.072	2.176
+concept:athleteplaysforteam	concept:athleteplaysforteam_concept:sportsteam:celtics	8.905	4.996
+concept:inverseofautomobilemakerdealersincity	concept:inverseofautomobilemakerdealersincity_concept:automobilemaker:nissan	7.962	4.194
+concept:locationactedinbyagent	concept:locationactedinbyagent_concept:professionalorganization:american	7.557	1.702
+concept:teamplaysagainstteam	concept:teamplaysagainstteam_concept:sportsteam:pirates	4.259	1.992
+occurs as	occurs as_result	6.030	6.210
+concept:worksfor	concept:worksfor_concept:company:fox	6.014	5.323
+took	took_place	2.965	3.969
+concept:citylocatedinstate	concept:citylocatedinstate_concept:stateorprovince:georgia	7.588	5.907
+in	in_bathroom	8.107	3.908
+concept:drugworkedonbyagent	concept:drugworkedonbyagent_concept:biotechcompany:merck	7.670	5.561
+concept:musicartistgenre	concept:musicartistgenre_concept:musicgenre:rock	6.902	5.639
+follow	follow_link	3.008	2.645
+concept:sportusesequipment	concept:sportusesequipment_concept:tool:accessories	5.612	8.370
+concept:politicianrepresentslocation	concept:politicianrepresentslocation_concept:country:saudi_arabia	6.408	2.750
+generalizations	generalizations_concept:university	2.241	7.050
+concept:fooddecreasestheriskofdisease	concept:fooddecreasestheriskofdisease_concept:disease:heart_disease	8.717	6.254
+can cause	can cause_side effects	7.538	5.661
+generalizations	generalizations_concept:physicalcharacteristic	5.081	4.595
+concept:inverseofweaponmadeincountry	concept:inverseofweaponmadeincountry_concept:weapon:weapons	5.860	0.959
+concept:teamplaysagainstteam	concept:teamplaysagainstteam_concept:sportsteam:bills	2.737	0.936
+generalizations	generalizations_concept:visualartmovement	4.553	5.214
+concept:clothingtogowithclothing	concept:clothingtogowithclothing_concept:clothing:t_shirt	9.839	4.723
+concept:teamplaysagainstteam	concept:teamplaysagainstteam_concept:sportsteam:washington_redskins	2.774	0.960
+concept:dateof	concept:dateof_concept:jobposition:meeting	1.544	5.916
+concept:animalpredators	concept:animalpredators_concept:mammal:animals	5.165	2.059
+concept:athletewinsawardtrophytournament	concept:athletewinsawardtrophytournament_concept:awardtrophytournament:australian_open	4.265	5.108
+s	s_world	9.518	5.300
+concept:roomcancontainitem	concept:roomcancontainitem_concept:personalcareitem:tub	3.581	4.445
+generalizations	generalizations_concept:terroristorganization	4.546	4.475
+generalizations	generalizations_concept:personalcareitem	1.989	7.663
+generalizations	generalizations_concept:musicgenre	5.356	6.438
+concept:competeswith	concept:competeswith_concept:website:yahoo	7.666	7.030
+concept:subpartof	concept:subpartof_concept:vehicle:water	7.697	3.724
+ranks among	ranks among_countries	6.080	5.821
+generalizations	generalizations_concept:weapon	2.910	8.320
+generalizations	generalizations_concept:lake	7.321	3.628
+concept:citylocatedinstate	concept:citylocatedinstate_concept:stateorprovince:rhode_island	8.115	4.792
+concept:animalpredators	concept:animalpredators_concept:mammal:cats	8.069	2.192
+concept:teamplaysagainstteam	concept:teamplaysagainstteam_concept:sportsteam:phillies	4.272	2.031
+with	with_people	2.556	3.443
+concept:locationactedinbyagent	concept:locationactedinbyagent_concept:sportsleague:national	7.673	1.785
+generalizations	generalizations_concept:visualartform	6.983	3.286
+uses	uses_water	4.453	3.678
+concept:ismultipleof	concept:ismultipleof_concept:mammal:sheep	8.134	3.787
+needs	needs_water	4.484	3.740
+concept:agentcompeteswithagent	concept:agentcompeteswithagent_concept:city:search	7.331	3.973
+concept:musicianplaysinstrument	concept:musicianplaysinstrument_concept:musicinstrument:guitar	8.548	5.322
+concept:teamingame	concept:teamingame_concept:sportsgame:playoffs	9.180	2.951
+in	in_water	4.639	4.160
+concept:subpartof	concept:subpartof_concept:musicsong:nba	3.851	8.139
+generalizations	generalizations_concept:bank	8.442	5.067
+concept:locationactedinbyagent	concept:locationactedinbyagent_concept:company:national_flood_insurance_program	5.550	5.996
+generalizations	generalizations_concept:animal	4.651	1.533
+concept:drugpossiblytreatsphysiologicalcondition	concept:drugpossiblytreatsphysiologicalcondition_concept:disease:pain	6.437	5.115
+generalizations	generalizations_concept:profession	6.789	2.610
+concept:worker	concept:worker_concept:person:white	6.131	8.101
+asked	asked_Questions	2.079	4.528
+concept:athleteplayssport	concept:athleteplayssport_concept:sport:football	5.134	1.620
+affects	affects_people	2.335	3.228
+concept:atdate	concept:atdate_concept:date:n1996	7.759	2.588
+concept:competeswith	concept:competeswith_concept:newspaper:daily	8.244	6.131
+concept:agriculturalproductcookedwithagriculturalproduct	concept:agriculturalproductcookedwithagriculturalproduct_concept:vegetable:onions	4.327	2.708
+concept:professionistypeofprofession	concept:professionistypeofprofession_concept:profession:practitioners	7.614	7.505
+concept:academicprogramatuniversity	concept:academicprogramatuniversity_concept:university:institute	4.322	6.377
+concept:athleteplaysforteam	concept:athleteplaysforteam_concept:sportsteam:dodgers	8.105	6.068
+generalizations	generalizations_concept:movie	5.377	3.777
+concept:agentinvolvedwithitem	concept:agentinvolvedwithitem_concept:hallwayitem:browser_window	7.489	4.031
+generalizations	generalizations_concept:criminal	5.313	4.672
+concept:agriculturalproductcookedwithagriculturalproduct	concept:agriculturalproductcookedwithagriculturalproduct_concept:agriculturalproduct:black_pepper	4.496	2.879
+concept:countrylocatedingeopoliticallocation	concept:countrylocatedingeopoliticallocation_concept:island:countries	6.214	1.070
+provides	provides_links	3.064	7.268
+generalizations	generalizations_concept:creativework	4.713	4.723
+concept:atdate	concept:atdate_concept:date:n1993	7.743	2.654
+in	in_World Series	7.990	2.864
+provides	provides_information	1.533	4.491
+concept:atlocation	concept:atlocation_concept:stateorprovince:texas	7.037	4.281
+concept:animalistypeofanimal	concept:animalistypeofanimal_concept:animal:animals001	7.365	5.256
+concept:roomcancontainitem	concept:roomcancontainitem_concept:bathroomitem:toilet	3.732	4.291
+concept:superpartof	concept:superpartof_concept:academicfield:system	7.624	3.364
+complete	complete_form	3.078	2.456
+generalizations	generalizations_concept:mollusk	5.013	5.441
+concept:atdate	concept:atdate_concept:dateliteral:n1990	7.445	2.778
+concept:inverseofbeveragecontainsprotein	concept:inverseofbeveragecontainsprotein_concept:beverage:milk	8.183	5.021
+concept:politicianusendorsespoliticianus	concept:politicianusendorsespoliticianus_concept:politicianus:mccain	9.477	6.452
+concept:countrylocatedingeopoliticallocation	concept:countrylocatedingeopoliticallocation_concept:continent:asia	6.232	1.454
+concept:subpartoforganization	concept:subpartoforganization_concept:televisionnetwork:abc	7.734	5.765
+concept:sportsgamewinner	concept:sportsgamewinner_concept:sportsteam:yankees	6.794	5.406
+concept:athleteplaysforteam	concept:athleteplaysforteam_concept:sportsteam:leafs	6.788	4.599
+concept:citylocatedinstate	concept:citylocatedinstate_concept:stateorprovince:connecticut	6.842	6.313
+contain	contain_links	3.148	7.554
+generalizations	generalizations_concept:traditionalgame	2.697	6.385
+buy	buy_New	7.777	6.792
+concept:cityliesonriver	concept:cityliesonriver_concept:river:thames	8.469	4.831
+concept:drugworkedonbyagent	concept:drugworkedonbyagent_concept:biotechcompany:glaxosmithkline	7.374	5.946
+will give	will give_tools	2.740	5.777
+concept:automobilemakerdealersincountry	concept:automobilemakerdealersincountry_concept:country:uk	1.393	3.818
+generalizations	generalizations_concept:cardgame	2.698	6.385
+among	among_countries	6.041	5.646
+concept:inverseofagriculturalproductcookedwithagricultureproduct	concept:inverseofagriculturalproductcookedwithagricultureproduct_concept:food:peppers	4.462	2.800
+generalizations	generalizations_concept:winery	6.283	3.355
+concept:athleteplaysforteam	concept:athleteplaysforteam_concept:sportsteam:indians	8.630	4.828
+concept:atdate	concept:atdate_concept:year:n1989	7.740	2.714
+concept:subpartof	concept:subpartof_concept:company:washington	3.921	5.754
+offers	offers_series	3.265	6.110
+affects	affects_children	8.700	5.712
+concept:atlocation	concept:atlocation_concept:website:new	7.424	5.036
+concept:locationcontainslocation	concept:locationcontainslocation_concept:website:new	7.924	1.236
+concept:inverseofagriculturalproductcomingfromvertebrate	concept:inverseofagriculturalproductcomingfromvertebrate_concept:agriculturalproduct:eggs	5.272	2.378
+fill	fill_form	3.075	2.459
+concept:chemicaltypehaschemical	concept:chemicaltypehaschemical_concept:chemical:hydrogen	4.406	7.229
+do	do_search	4.172	5.602
+relieves	relieves_pain	9.004	4.161
+concept:equipmentusedbysport	concept:equipmentusedbysport_concept:sport:sports	4.409	5.920
+generalizations	generalizations_concept:charactertrait	5.044	5.306
+represents	represents_people	2.076	3.290
+concept:generalizationof	concept:generalizationof_concept:website:links	7.889	5.288
+generalizations	generalizations_concept:crimeorcharge	6.181	5.279
+concept:agentcollaborateswithagent	concept:agentcollaborateswithagent_concept:politicianus:apple_ceo_steve_jobs	8.551	5.948
+concept:roomcancontainitem	concept:roomcancontainitem_concept:bathroomitem:bathtub	3.723	4.287
+concept:athleteplaysforteam	concept:athleteplaysforteam_concept:sportsteam:cubs	8.130	5.341
+click on	click on_links	3.097	7.410
+make as	make as_result	6.796	7.070
+concept:clothingmadefromplant	concept:clothingmadefromplant_concept:plant:flower	7.926	5.971
+concept:chemicalistypeofchemical	concept:chemicalistypeofchemical_concept:chemical:emissions	3.718	7.325
+concept:inverseofbakedgoodservedwithbeverage	concept:inverseofbakedgoodservedwithbeverage_concept:bakedgood:bread	9.560	5.742
+concept:animalpredators	concept:animalpredators_concept:mammal:dogs	8.110	2.091
+generalizations	generalizations_concept:braintissue	5.799	3.694
+has	has_contact	2.970	4.841
+generalizations	generalizations_concept:buildingfeature	3.937	4.024
+concept:teamplaysagainstteam	concept:teamplaysagainstteam_concept:sportsteam:dallas_cowboys	2.723	1.010
+concept:locatedat	concept:locatedat_concept:book:years	5.109	7.772
+generalizations	generalizations_concept:creditunion	5.444	4.091
+concept:musicartistgenre	concept:musicartistgenre_concept:musicgenre:indie	7.897	6.006
+concept:animalistypeofanimal	concept:animalistypeofanimal_concept:mammal:predators	2.599	7.638
+concept:inverseofanimaleatvegetable	concept:inverseofanimaleatvegetable_concept:animal:chicken001	6.916	6.216
+concept:locationlocatedwithinlocation	concept:locationlocatedwithinlocation_concept:country:saudi_arabia	4.128	4.724
+concept:professiontypehasprofession	concept:professiontypehasprofession_concept:profession:experts	7.131	7.806
+generalizations	generalizations_concept:trail	4.746	4.510
+concept:proxyfor	concept:proxyfor_concept:stateorprovince:georgia	6.576	4.506
+concept:locationlocatedwithinlocation	concept:locationlocatedwithinlocation_concept:country:united_states	4.131	4.722
+generalizations	generalizations_concept:bridge	5.639	3.698
+concept:athleteplaysforteam	concept:athleteplaysforteam_concept:sportsteam:white_sox	7.266	5.823
+concept:bookwriter	concept:bookwriter_concept:writer:william_shakespeare	9.708	4.209
+concept:locatedat	concept:locatedat_concept:religion:american	9.078	5.257
+concept:athleteplaysforteam	concept:athleteplaysforteam_concept:sportsteam:phillies	8.443	5.136
+have suffered as	have suffered as_result	6.709	7.261
+concept:organizationheadquarteredincity	concept:organizationheadquarteredincity_concept:city:new_york_city	8.887	4.822
+concept:athleteplayssport	concept:athleteplayssport_concept:sport:basketball	8.828	4.902
+concept:agentinvolvedwithitem	concept:agentinvolvedwithitem_concept:buildingfeature:window	7.464	3.953
+presents	presents_series	3.198	6.082
+increased as	increased as_result	6.437	6.600
+concept:professionistypeofprofession	concept:professionistypeofprofession_concept:jobposition:professional	9.019	4.959
+concept:animalistypeofanimal	concept:animalistypeofanimal_concept:bird:birds	8.338	3.722
+concept:citylocatedincountry	concept:citylocatedincountry_concept:country:japan	8.690	5.318
+concept:agriculturalproductcookedwithagriculturalproduct	concept:agriculturalproductcookedwithagriculturalproduct_concept:vegetable:pepper	4.020	3.135
+concept:visualartistartform	concept:visualartistartform_concept:visualartform:paintings	9.398	4.614
+concept:writerwrotebook	concept:writerwrotebook_concept:book:bible	8.680	5.626
+dissolve in	dissolve in_water	5.850	5.343
+has increased as	has increased as_result	5.738	7.165
+generalizations	generalizations_concept:country	6.267	1.111
+concept:citylocatedinstate	concept:citylocatedinstate_concept:stateorprovince:texas	8.825	6.123
+will have	will have_tools	5.308	5.956
+concept:atlocation	concept:atlocation_concept:stateorprovince:illinois	8.094	4.163
+concept:athleteplayssport	concept:athleteplayssport_concept:sport:tennis	4.275	5.107
+concept:agentcollaborateswithagent	concept:agentcollaborateswithagent_concept:company:clinton	6.972	4.141
+concept:inverseofagriculturalproducttoattractinsect	concept:inverseofagriculturalproducttoattractinsect_concept:food:plants	5.495	1.207
+concept:professiontypehasprofession	concept:professiontypehasprofession_concept:profession:consultants	7.060	7.895
+generalizations	generalizations_concept:personcanada	4.700	5.559
+generalizations	generalizations_concept:stadiumoreventvenue	3.306	8.408
+concept:animaltypehasanimal	concept:animaltypehasanimal_concept:bird:birds	8.023	2.324
+generalizations	generalizations_concept:mlsoftware	9.058	5.355
+died as	died as_result	6.946	7.222
+takes	takes_office	2.328	2.212
+amongst	amongst_countries	6.083	5.549
+concept:itemfoundinroom	concept:itemfoundinroom_concept:room:kitchen	7.254	5.707
+running for	running for_president	2.404	1.867
+give	give_tools	2.918	5.735
+concept:hotelincity	concept:hotelincity_concept:city:chicago	8.364	4.189
+generalizations	generalizations_concept:museum	7.648	4.630
+in	in_window	6.763	3.725
+contains	contains_information	1.527	4.459
+concept:teamplaysagainstteam	concept:teamplaysagainstteam_concept:sportsteam:cleveland_browns	2.675	0.964
+generalizations	generalizations_concept:kitchenitem	4.252	4.107
+tap	tap_water	6.371	3.108
+concept:dateof	concept:dateof_concept:musicalbum:fire	1.716	5.587
+concept:citylocatedinstate	concept:citylocatedinstate_concept:stateorprovince:delaware	8.281	6.200
+helps	helps_body	6.957	5.951
+have	have_problems	7.246	6.993
+will give	will give_information	1.758	4.438
+concept:citylocatedinstate	concept:citylocatedinstate_concept:stateorprovince:indiana	6.891	4.960
+provides	provides_search	3.724	5.946
+will open in	will open in_window	3.359	2.959
+generalizations	generalizations_concept:park	8.008	4.707
+concept:atdate	concept:atdate_concept:date:n2004	7.483	2.367
+experienced as	experienced as_result	6.870	6.962
+generalizations	generalizations_concept:wine	3.550	3.995
+offer	offer_services	5.673	6.611
+concept:televisionstationaffiliatedwith	concept:televisionstationaffiliatedwith_concept:televisionnetwork:fox	3.660	8.645
+has	has_air	1.801	2.890
+send	send_information	1.799	4.486
+concept:televisionstationaffiliatedwith	concept:televisionstationaffiliatedwith_concept:televisionnetwork:upn	8.446	6.198
+concept:dateof	concept:dateof_concept:comedian:day	1.514	5.783
+concept:proxyfor	concept:proxyfor_concept:stateorprovince:new_jersey	8.215	4.228
+concept:athleteplaysforteam	concept:athleteplaysforteam_concept:sportsteam:atlanta_braves	7.322	6.580
+concept:athleteplaysforteam	concept:athleteplaysforteam_concept:sportsteam:milwaukee_brewers	8.289	5.187
+generalizations	generalizations_concept:plant	6.729	0.550
+generalizations	generalizations_concept:coach	7.666	0.987
+told	told_people	2.116	3.445
+concept:createdbyagent	concept:createdbyagent_concept:personafrica:agatha_christie	8.326	4.494
+concept:chemicalistypeofchemical	concept:chemicalistypeofchemical_concept:chemical:pollutants	3.676	7.376
+concept:inverseofautomobilemakerdealersincountry	concept:inverseofautomobilemakerdealersincountry_concept:automobilemaker:general	6.020	0.862
+concept:proxyfor	concept:proxyfor_concept:company:washington	3.913	5.756
+concept:teamplayssport	concept:teamplayssport_concept:sport:hockey	3.633	3.391
+concept:subpartof	concept:subpartof_concept:food:ind	7.160	4.224
+concept:chemicalistypeofchemical	concept:chemicalistypeofchemical_concept:chemical:chemicals	3.907	7.601
+concept:furniturefoundinroom	concept:furniturefoundinroom_concept:room:living_room	9.192	5.638
+concept:specializationof	concept:specializationof_concept:mammal:animals	5.061	2.367
+generalizations	generalizations_concept:muscle	6.278	3.917
+concept:agentparticipatedinevent	concept:agentparticipatedinevent_concept:convention:games	3.031	0.989
+concept:locationlocatedwithinlocation	concept:locationlocatedwithinlocation_concept:country:poland	9.213	4.997
+generalizations	generalizations_concept:videogamesystem	5.519	5.739
+generalizations	generalizations_concept:magazine	5.776	6.357
+concept:createdbyagent	concept:createdbyagent_concept:city:form	9.164	4.732
+took	took_office	2.329	2.211
+has	has_sofa	8.959	3.462
+reacts with	reacts with_water	7.980	4.327
+concept:personhascitizenship	concept:personhascitizenship_concept:country:england	6.606	4.810
+generalizations	generalizations_concept:vein	5.125	0.456
+generalizations	generalizations_concept:furniture	6.397	0.000
+concept:teamplaysagainstteam	concept:teamplaysagainstteam_concept:sportsteam:colts	2.756	0.945
+concept:atlocation	concept:atlocation_concept:stateorprovince:georgia	6.613	4.511
+serves	serves_people	2.071	3.149
+concept:drugworkedonbyagent	concept:drugworkedonbyagent_concept:visualartist:body	6.286	4.947
+loses	loses_water	4.572	3.588
+generalizations	generalizations_concept:politicalparty	8.379	2.664
+concept:automodelproducedbymaker	concept:automodelproducedbymaker_concept:automobilemaker:honda	9.093	4.500
+in	in_contact	2.881	4.880
+concept:inverseofsportfansincountry	concept:inverseofsportfansincountry_concept:sport:cricket	6.185	0.758
+generalizations	generalizations_concept:mlarea	2.954	5.349
+concept:bodypartwithinbodypart	concept:bodypartwithinbodypart_concept:bodypart:blood	6.600	5.290
+concept:hasofficeincity	concept:hasofficeincity_concept:city:heathrow	9.363	6.110
+generalizations	generalizations_concept:musicalbum	5.136	8.971
+may cause	may cause_side effects	7.559	5.761
+concept:itemfoundinroom	concept:itemfoundinroom_concept:room:private_bathroom	4.818	8.133
+generalizations	generalizations_concept:vehicle	7.932	8.147
+concept:countryproducesproduct	concept:countryproducesproduct_concept:personalcareitem:products	5.957	0.931
+concept:attractionofcity	concept:attractionofcity_concept:city:new_york_city	4.105	3.898
+concept:teamingame	concept:teamingame_concept:sportsgame:series	4.138	2.231
+concept:inverseofanimalsuchasfish	concept:inverseofanimalsuchasfish_concept:mammal:predators	7.707	4.370
+generalizations	generalizations_concept:athlete	6.723	6.068
+concept:bodypartwithinbodypart	concept:bodypartwithinbodypart_concept:bodypart:system001	6.363	4.627
+generalizations	generalizations_concept:year	4.467	0.308
+concept:automodelproducedbymaker	concept:automodelproducedbymaker_concept:automobilemaker:ford	5.250	8.140
+concept:journalistwritesforpublication	concept:journalistwritesforpublication_concept:company:post001	8.338	6.421
+generalizations	generalizations_concept:bird	5.535	5.437
+have	have_access	2.714	2.699
+concept:agentinvolvedwithitem	concept:agentinvolvedwithitem_concept:buildingfeature:page	8.793	4.090
+concept:inverseofanimalsuchasinsect	concept:inverseofanimalsuchasinsect_concept:insect:insects	5.105	1.098
+concept:roomcancontainitem	concept:roomcancontainitem_concept:meat:oven	7.361	5.439
+concept:animalistypeofanimal	concept:animalistypeofanimal_concept:mammal:dogs	8.118	2.074
+concept:musicianplaysinstrument	concept:musicianplaysinstrument_concept:musicinstrument:violin	8.969	5.479
+concept:athleteplaysinleague	concept:athleteplaysinleague_concept:sportsleague:mlb	7.187	6.007
+concept:universityoperatesinlanguage	concept:universityoperatesinlanguage_concept:language:latin	4.117	3.542
+concept:dateof	concept:dateof_concept:musicalbum:death	1.378	5.770
+are using	are using_tools	4.782	6.020
+concept:chemicaltypehaschemical	concept:chemicaltypehaschemical_concept:chemical:nitrogen	3.660	7.242
+generalizations	generalizations_concept:hobby	9.076	2.057
+generalizations	generalizations_concept:river	5.856	4.285
+generalizations	generalizations_concept:musicartist	9.495	2.453
+concept:proxyfor	concept:proxyfor_concept:weatherphenomenon:tennessee	9.252	5.768
+concept:journalistwritesforpublication	concept:journalistwritesforpublication_concept:newspaper:york_times	6.212	2.403
+concept:inverseofanimalsuchasinsect	concept:inverseofanimalsuchasinsect_concept:animal:pests	5.272	1.141
+concept:politicianusendorsespoliticianus	concept:politicianusendorsespoliticianus_concept:politicianus:barack_obama	8.624	3.051
+concept:cityliesonriver	concept:cityliesonriver_concept:river:rhine	8.889	5.834
+concept:proxyfor	concept:proxyfor_concept:newspaper:missouri	8.945	4.860
+concept:professionistypeofprofession	concept:professionistypeofprofession_concept:profession:doctors	7.215	8.058
+on	on_page	3.357	2.925
+concept:atdate	concept:atdate_concept:year:n1983	7.664	2.802
+generalizations	generalizations_concept:amphibian	4.384	4.462
+relieve	relieve_pain	8.996	4.183
+generalizations	generalizations_concept:bedroomitem	4.943	5.194
+concept:roomcancontainitem	concept:roomcancontainitem_concept:personalcareitem:bath	3.602	4.422
+concept:buildingfeaturemadefrombuildingmaterial	concept:buildingfeaturemadefrombuildingmaterial_concept:buildingmaterial:glass	8.233	4.075
+concept:citylocatedincountry	concept:citylocatedincountry_concept:country:france	7.112	5.372
+is taking	is taking_place	3.060	3.953
+suffer as	suffer as_result	6.422	7.248
+made	made_contact	2.920	4.799
+concept:furniturefoundinroom	concept:furniturefoundinroom_concept:room:bedroom	7.731	5.975
+generalizations	generalizations_concept:politicsbill	5.648	4.334
+generalizations	generalizations_concept:island	5.181	5.688
+concept:createdbyagent	concept:createdbyagent_concept:personus:janet_evanovich	7.634	6.360
+generalizations	generalizations_concept:olympics	5.852	0.473
+concept:cityliesonriver	concept:cityliesonriver_concept:river:columbia	8.444	4.274
+requires	requires_water	4.481	3.692
+concept:professiontypehasprofession	concept:professiontypehasprofession_concept:profession:specialists	7.212	7.748
+concept:televisionstationaffiliatedwith	concept:televisionstationaffiliatedwith_concept:televisionnetwork:cw	7.188	4.850
+generalizations	generalizations_concept:politicianus	5.562	2.860
+generalizations	generalizations_concept:nonprofitorganization	7.079	3.489
+concept:inverseoffishservedwithfood	concept:inverseoffishservedwithfood_concept:fish:salmon	7.825	4.259
+concept:inverseofagriculturalproductincludingagriculturalproduct	concept:inverseofagriculturalproductincludingagriculturalproduct_concept:food:crops	4.260	2.899
+concept:televisionstationincity	concept:televisionstationincity_concept:city:los_angeles	6.901	4.485
+concept:universityoperatesinlanguage	concept:universityoperatesinlanguage_concept:language:english	4.085	3.527
+generalizations	generalizations_concept:cognitiveactions	4.541	6.580
+generalizations	generalizations_concept:cheese	7.681	3.554
+absorbs	absorbs_water	4.719	3.711
+generalizations	generalizations_concept:color	5.264	5.354
+includes	includes_series	3.210	6.086
+generalizations	generalizations_concept:arachnid	4.084	6.657
+concept:cityhascompanyoffice	concept:cityhascompanyoffice_concept:company:american_airlines	9.115	6.011
+concept:teamplaysagainstteam	concept:teamplaysagainstteam_concept:sportsteam:bears_29_17	2.676	1.031
+concept:persongraduatedfromuniversity	concept:persongraduatedfromuniversity_concept:university:harvard	9.156	3.997
+generalizations	generalizations_concept:perceptionevent	8.582	5.133
+concept:animalpreyson	concept:animalpreyson_concept:animal:animals001	7.406	5.254
+concept:professiontypehasprofession	concept:professiontypehasprofession_concept:profession:instructors	7.039	7.935
+can help	can help_people	2.382	3.385
+works for	works for_people	2.181	3.266
+provides	provides_window	6.787	3.791
+concept:personbornincity	concept:personbornincity_concept:city:orleans	8.715	4.506
+sustained as	sustained as_result	6.322	6.201
+concept:inverseofsportschoolincountry	concept:inverseofsportschoolincountry_concept:sport:tourist	6.222	0.790
+concept:museumincity	concept:museumincity_concept:city:new_york_city	6.173	4.855
+concept:athletewinsawardtrophytournament	concept:athletewinsawardtrophytournament_concept:awardtrophytournament:wimbledon	4.270	5.107
+generalizations	generalizations_concept:skyscraper	6.548	3.499
+please	please_Contact	3.124	3.050
+concept:parkincity	concept:parkincity_concept:city:london	9.417	5.040
+received as	received as_result	5.994	7.471
+generalizations	generalizations_concept:officeitem	1.501	1.806
+concept:citylocatedincountry	concept:citylocatedincountry_concept:country:spain	8.725	5.783
+concept:locationactedinbyagent	concept:locationactedinbyagent_concept:male:years	5.109	7.772
+generalizations	generalizations_concept:publication	3.773	2.662
+has taken	has taken_place	3.077	3.957
+concept:journalistwritesforpublication	concept:journalistwritesforpublication_concept:website:chicago_tribune	8.724	5.162
+concept:citylocatedinstate	concept:citylocatedinstate_concept:stateorprovince:illinois	7.691	5.317
+concept:plantgrowinginplant	concept:plantgrowinginplant_concept:plant:trees	6.629	4.156
+concept:citylocatedinstate	concept:citylocatedinstate_concept:stateorprovince:louisiana	7.877	4.134
+concept:mutualproxyfor	concept:mutualproxyfor_concept:book:new	6.987	4.610
+has	has_tub	8.645	3.513
+becomes	becomes_President	2.504	1.981
+will increase as	will increase as_result	6.483	6.596
+generalizations	generalizations_concept:hallwayitem	5.502	4.841
+has with	has with_countries	6.100	5.554
+generalizations	generalizations_concept:zoo	5.690	4.717
+gives	gives_information	1.609	4.470
+generalizations	generalizations_concept:journalist	6.182	2.395
+concept:proxyfor	concept:proxyfor_concept:beverage:new	1.825	5.949
+generalizations	generalizations_concept:programminglanguage	6.879	3.520
+concept:plantgrowinginplant	concept:plantgrowinginplant_concept:plant:tree	6.618	4.153
+concept:politicianusmemberofpoliticalgroup	concept:politicianusmemberofpoliticalgroup_concept:governmentorganization:washington	6.315	5.379
+concept:stadiumlocatedincity	concept:stadiumlocatedincity_concept:city:cleveland	8.610	5.189
+concept:agentparticipatedinevent	concept:agentparticipatedinevent_concept:sportsgame:finals	8.861	3.903
+includes	includes_water	7.246	6.777
+concept:proxyfor	concept:proxyfor_concept:stadiumoreventvenue:new	7.361	1.461
+generalizations	generalizations_concept:nerve	5.859	4.760
+concept:politicianrepresentslocation	concept:politicianrepresentslocation_concept:country:united_states	6.400	2.744
+concept:teamplaysagainstteam	concept:teamplaysagainstteam_concept:sportsteam:dodgers	4.263	1.998
+concept:chemicaltypehaschemical	concept:chemicaltypehaschemical_concept:chemical:sulphur	3.636	7.162
+under	under_water	4.712	4.039
+generalizations	generalizations_concept:physicsterm	4.940	0.194
+generalizations	generalizations_concept:highway	4.429	4.749
+concept:createdbyagent	concept:createdbyagent_concept:county:ford	8.315	3.962
+concept:atlocation	concept:atlocation_concept:stateorprovince:alabama	7.149	6.605
+as	as_result	8.068	3.263
+concept:cityliesonriver	concept:cityliesonriver_concept:river:mekong	7.793	4.896
+concept:locationactedinbyagent	concept:locationactedinbyagent_concept:sportsleague:post	7.605	6.188
+generalizations	generalizations_concept:placeofworship	6.453	3.663
+concept:createdbyagent	concept:createdbyagent_concept:actor:information	9.143	4.750
+concept:chemicaltypehaschemical	concept:chemicaltypehaschemical_concept:chemical:monoxide	4.406	7.243
+generalizations	generalizations_concept:bathroomitem	3.879	6.608
+experience as	experience as_result	6.716	7.182
+has	has_result	3.340	4.248
+concept:agentcreated	concept:agentcreated_concept:hobby:click	7.442	4.183
+concept:teamingame	concept:teamingame_concept:sportsgame:title	3.242	1.273
+advanced	advanced_search	6.672	3.582
+click	click_link	3.007	2.637
+concept:subpartof	concept:subpartof_concept:company:florida	8.970	4.432
+concept:proxyfor	concept:proxyfor_concept:company:new_york	8.535	6.530
+concept:citylocatedinstate	concept:citylocatedinstate_concept:stateorprovince:nevada	8.160	4.535
+generalizations	generalizations_concept:protein	5.153	6.448
+concept:cityhascompanyoffice	concept:cityhascompanyoffice_concept:company:ryanair	6.942	4.735
+provide	provide_water	5.819	5.113
+concept:citylocatedincountry	concept:citylocatedincountry_concept:country:netherland_antilles	8.628	5.012
+please	please_click	3.212	3.060
+have	have_power	6.076	4.491
+generalizations	generalizations_concept:flooritem	5.508	4.243
+concept:hasofficeincity	concept:hasofficeincity_concept:city:los_angeles	6.656	6.173
+concept:inverseofautomobilemakerdealersincity	concept:inverseofautomobilemakerdealersincity_concept:automobilemaker:honda	9.025	5.980
+concept:statelocatedingeopoliticallocation	concept:statelocatedingeopoliticallocation_concept:country:india	3.684	3.075
+have	have_air	9.028	6.697
+concept:teamplaysagainstteam	concept:teamplaysagainstteam_concept:sportsteam:red_sox	4.276	2.075
+has improved as	has improved as_result	5.595	7.542
+concept:clothingtogowithclothing	concept:clothingtogowithclothing_concept:clothing:jeans	9.992	4.962
+generalizations	generalizations_concept:celltype	5.523	3.593
+concept:controlledbyagent	concept:controlledbyagent_concept:musicartist:journal	8.797	4.836
+generalizations	generalizations_concept:politicsissue	5.774	4.128
+concept:teamplaysincity	concept:teamplaysincity_concept:city:new_york_city	7.031	5.037
+concept:musicianplaysinstrument	concept:musicianplaysinstrument_concept:musicinstrument:bass	6.713	5.718
+send	send_flowers	6.459	4.357
+concept:clothingtogowithclothing	concept:clothingtogowithclothing_concept:clothing:tie	9.900	4.786
+concept:citylocatedinstate	concept:citylocatedinstate_concept:stateorprovince:florida	8.242	5.811
+concept:stadiumhometosport	concept:stadiumhometosport_concept:sport:hockey	3.739	3.740
+concept:teamwontrophy	concept:teamwontrophy_concept:awardtrophytournament:super_bowl	2.853	0.809
+concept:agentbelongstoorganization	concept:agentbelongstoorganization_concept:sportsleague:mlb	8.412	6.669
+concept:locationlocatedwithinlocation	concept:locationlocatedwithinlocation_concept:stateorprovince:florida	7.741	5.050
+generalizations	generalizations_concept:personeurope	5.319	4.308
+concept:athleteplaysforteam	concept:athleteplaysforteam_concept:sportsteam:blackhawks	7.363	5.087
+in	in_Washington	4.631	4.927
+concept:locationlocatedwithinlocation	concept:locationlocatedwithinlocation_concept:stateorprovince:california	8.399	5.980
+generalizations	generalizations_concept:tool	5.598	0.199
+generalizations	generalizations_concept:writer	4.915	4.959
+concept:mutualproxyfor	concept:mutualproxyfor_concept:stateorprovince:california	7.348	5.586
+concept:dateof	concept:dateof_concept:country:australia	1.655	5.674
+concept:cityliesonriver	concept:cityliesonriver_concept:river:mississippi	7.148	5.622
+concept:teamplaysagainstteam	concept:teamplaysagainstteam_concept:sportsteam:baltimore_ravens	2.750	0.899
+concept:proxyfor	concept:proxyfor_concept:university:ohio	9.066	5.719
+concept:controlledbyagent	concept:controlledbyagent_concept:company:nbc	8.347	3.305
+will help in	will help in_search	4.201	5.613
+generalizations	generalizations_concept:condiment	7.121	3.271
+concept:proxyfor	concept:proxyfor_concept:coach:kentucky	7.508	4.393
+concept:dateof	concept:dateof_concept:televisionshow:season	2.010	6.284
+provides	provides_water	8.805	6.844
+concept:citylocatedincountry	concept:citylocatedincountry_concept:country:germany	8.484	5.249
+generalizations	generalizations_concept:emotion	6.025	4.343
+began	began_series	3.459	6.167
+concept:inverseofsportschoolincountry	concept:inverseofsportschoolincountry_concept:sport:golf	6.129	0.803
+concept:locationlocatedwithinlocation	concept:locationlocatedwithinlocation_concept:country:usa	4.144	4.674
+has not added	has not added_friends	7.048	4.450
