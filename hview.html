@@ -29,7 +29,8 @@ stroke-width: 1.5px;
 }
 
 </style>
-<svg id="figure" width="2000" height="1200" class="svg"></svg>
+<svg id="figure" width="5000" height="5000" class="svg"></svg>
+
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script>
 
@@ -44,12 +45,20 @@ function getParameterByName(name, url) {
     if (!results[2]) return '';
     return decodeURIComponent(results[2].replace(/\+/g, " "));
 }
+wt = getParameterByName('w');
+ht = getParameterByName('h');
+var svg_h = parseInt(ht);
+var svg_w = parseInt(wt);
+svg_elm = document.getElementById("figure");
+if(wt && ht){
+    svg_elm.style.width = wt+"px";
+    svg_elm.style.height= ht+"px";
+}
 
-
-var file_path = "/data/" + getParameterByName('q');
+var file_path = "./data/" + getParameterByName('q');
 var svg = d3.select("svg"),
-width = +svg.attr("width"),
-height = +svg.attr("height"),
+width = svg_w,
+height = svg_h,
 g = svg.append("g").attr("transform", "translate(350,0)");
 
 var tree = d3.tree()
